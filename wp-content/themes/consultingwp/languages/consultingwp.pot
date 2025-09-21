@@ -1,0 +1,788 @@
+# Copyright (C) 2024 consultingwp
+# This file is distributed under the same license as the consultingwp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: consultingwp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-17 14:51+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:35, ../patterns/footer.php:14
+msgid "ConsultingWP"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:386, ../inc/tgm-plugin/class-tgm-plugin-activation.php:827, ../inc/tgm-plugin/class-tgm-plugin-activation.php:2533, ../inc/tgm-plugin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:387, ../inc/tgm-plugin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:388, ../inc/tgm-plugin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:937, ../inc/tgm-plugin/class-tgm-plugin-activation.php:934
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:1121, ../inc/tgm-plugin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3517, ../inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3517, ../inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm-plugin/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm-plugin/tgmpa-hook.php:62
+msgid "Blocks Animation"
+msgstr ""
+
+#: ../patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: ../patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: ../patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: ../patterns/about-us.php:20, ../patterns/about-us.php:37, ../patterns/contact.php:58
+msgid "About Us"
+msgstr ""
+
+#: ../patterns/about-us.php:24
+msgid "Partner With Our Trusted Consultants Today."
+msgstr ""
+
+#: ../patterns/about-us.php:28, ../patterns/news.php:20, ../patterns/services.php:21
+msgid "Cras non dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur suscipit suscipit tellus. Phasellus tempus. Aenean imperdiet."
+msgstr ""
+
+#: ../patterns/about-us.php:32
+msgid "Donec id justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam vitae tortor. Donec interdum, metus et hendrerit aliquet, dolor diam sagittis ligula, eget egestas libero turpis vel mi."
+msgstr ""
+
+#: ../patterns/archive-product.php:59
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../patterns/blogs-grid.php:10, ../patterns/blogs.php:10
+msgid "Article"
+msgstr ""
+
+#: ../patterns/call-to-action.php:13
+msgid "Take Advantage Of a Consultation"
+msgstr ""
+
+#: ../patterns/call-to-action.php:17
+msgid "Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Donec vitae orci sed dolor rutrum auctor. Sed augue ipsum, egestas nec, vestibulum et, malesuada adipiscing, dui. Praesent ut ligula non mi varius sagittis. Nullam cursus lacinia erat."
+msgstr ""
+
+#: ../patterns/call-to-action.php:22, ../patterns/header.php:36, ../patterns/main-banner.php:27
+msgid "Schadule a call"
+msgstr ""
+
+#: ../patterns/call-to-action.php:26, ../patterns/contact.php:13, ../patterns/footer.php:88
+msgid "Contact Us"
+msgstr ""
+
+#: ../patterns/call-to-action.php:39
+msgid "1020+"
+msgstr ""
+
+#: ../patterns/call-to-action.php:43
+msgid "Active Users"
+msgstr ""
+
+#: ../patterns/call-to-action.php:53
+msgid "1980+"
+msgstr ""
+
+#: ../patterns/call-to-action.php:57
+msgid "Support Done"
+msgstr ""
+
+#: ../patterns/call-to-action.php:67
+msgid "2020+ "
+msgstr ""
+
+#: ../patterns/call-to-action.php:71
+msgid "Call Receive"
+msgstr ""
+
+#: ../patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: ../patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: ../patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: ../patterns/contact.php:17
+msgid "Vivamus elementum semper nisi. In ac felis quis tortor malesuada pretium. Vivamus in erat ut urna cursus vestibulum. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+msgstr ""
+
+#: ../patterns/contact.php:21
+msgid "Phasellus ullamcorper ipsum rutrum nunc. Nullam accumsan lorem in dui. Fusce neque. Vivamus quis mi. Donec venenatis vulputate lorem."
+msgstr ""
+
+#: ../patterns/contact.php:30
+msgid "+01-098-123456"
+msgstr ""
+
+#: ../patterns/contact.php:40
+msgid "info@example.com"
+msgstr ""
+
+#: ../patterns/contact.php:54
+msgid "Schadule a Call"
+msgstr ""
+
+#: ../patterns/faq.php:13
+msgid "FAQ"
+msgstr ""
+
+#: ../patterns/faq.php:17
+msgid "Freequently Asked Questions"
+msgstr ""
+
+#: ../patterns/faq.php:21
+msgid "Aliquam lobortis. Praesent blandit laoreet nibh. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Nullam vel sem. Ut tincidunt tincidunt erat."
+msgstr ""
+
+#: ../patterns/faq.php:25
+msgid "Quisque ut nisi. Quisque ut nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque auctor neque nec urna. In turpis."
+msgstr ""
+
+#: ../patterns/faq.php:31
+msgid "Fusce ac felis sit amet"
+msgstr ""
+
+#: ../patterns/faq.php:32
+msgid "Phasellus tempus. Etiam feugiat lorem non metus. Donec venenatis vulputate lorem. Pellentesque auctor neque nec urna. Nunc nec neque."
+msgstr ""
+
+#: ../patterns/faq.php:36, ../patterns/faq.php:40, ../patterns/faq.php:50, ../patterns/faq.php:54, ../patterns/faq.php:58, ../patterns/faq.php:62, ../patterns/faq.php:68, ../patterns/faq.php:72, ../patterns/faq.php:76, ../patterns/faq.php:80, ../patterns/faq.php:86, ../patterns/faq.php:90, ../patterns/faq.php:94, ../patterns/faq.php:98
+msgid "Aliquam eu nunc. Etiam iaculis nunc ac metus. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Praesent vestibulum dapibus nibh. Fusce commodo aliquam arcu."
+msgstr ""
+
+#: ../patterns/faq.php:44
+msgid "Maecenas malesuada. Sed hendrerit. Vivamus euismod mauris. In turpis. Nulla consequat massa quis enim."
+msgstr ""
+
+#: ../patterns/faq.php:85
+msgid "Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+msgstr ""
+
+#: ../patterns/features.php:17
+msgid "Performance"
+msgstr ""
+
+#: ../patterns/features.php:21, ../patterns/features.php:35, ../patterns/features.php:49, ../patterns/features.php:63
+msgid "Fusce pharetra convallis urna. Donec mi odio, scelerisque quis, convallis in, nisi. Praesent ut ligula non mi varius sagittis"
+msgstr ""
+
+#: ../patterns/features.php:31
+msgid "SEO"
+msgstr ""
+
+#: ../patterns/features.php:45
+msgid "Best Practices"
+msgstr ""
+
+#: ../patterns/features.php:59
+msgid "Accessibility"
+msgstr ""
+
+#: ../patterns/footer.php:18
+msgid "Praesent porttitor, nulla vitae posuere iaculis, arcu nisl dignissim dolor, a pretium mi sem ut ipsum. Phasellus ullamcorper ipsum rutrum nunc. Pellentesque dapibus hendrerit tortor. Vestibulum suscipit nulla quis orci. Aenean ut eros et nisl sagittis vestibulum."
+msgstr ""
+
+#: ../patterns/footer.php:24
+msgid "Company"
+msgstr ""
+
+#: ../patterns/footer.php:29
+msgid "Home"
+msgstr ""
+
+#: ../patterns/footer.php:33
+msgid "About"
+msgstr ""
+
+#: ../patterns/footer.php:37, ../patterns/services.php:13
+msgid "Our Services"
+msgstr ""
+
+#: ../patterns/footer.php:41, ../patterns/team.php:11
+msgid "Our Team"
+msgstr ""
+
+#: ../patterns/footer.php:45
+msgid "Blogs"
+msgstr ""
+
+#: ../patterns/footer.php:49
+msgid "Contacts"
+msgstr ""
+
+#: ../patterns/footer.php:56
+msgid "Useful Links"
+msgstr ""
+
+#: ../patterns/footer.php:61, ../patterns/services.php:32
+msgid "Strategy Consulting"
+msgstr ""
+
+#: ../patterns/footer.php:65, ../patterns/services.php:60
+msgid "Financial Consulting"
+msgstr ""
+
+#: ../patterns/footer.php:69, ../patterns/services.php:46
+msgid "Marketing Consulting"
+msgstr ""
+
+#: ../patterns/footer.php:73, ../patterns/services.php:76
+msgid "Operations Consulting"
+msgstr ""
+
+#: ../patterns/footer.php:77
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../patterns/footer.php:81
+msgid "Terms of Use"
+msgstr ""
+
+#: ../patterns/footer.php:97
+msgid "email@example.com"
+msgstr ""
+
+#: ../patterns/footer.php:107
+msgid "+01-123-456-098"
+msgstr ""
+
+#: ../patterns/footer.php:128
+msgid "Designed with"
+msgstr ""
+
+#: ../patterns/footer.php:128
+msgid "WordPress"
+msgstr ""
+
+#: ../patterns/icon-box.php:17
+msgid "Block-Powered Flexibility"
+msgstr ""
+
+#: ../patterns/icon-box.php:21, ../patterns/icon-box.php:35, ../patterns/icon-box.php:49, ../patterns/icon-box.php:63
+msgid "Fusce pharetra convallis urna. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Praesent ut ligula non mi varius sagittis"
+msgstr ""
+
+#: ../patterns/icon-box.php:31
+msgid "Global Template Control"
+msgstr ""
+
+#: ../patterns/icon-box.php:45
+msgid "Unified Styling with Global Styles"
+msgstr ""
+
+#: ../patterns/icon-box.php:59
+msgid "Hierarchical Template Mastery"
+msgstr ""
+
+#: ../patterns/main-banner.php:14
+msgid "Welcome To ConsultingWP"
+msgstr ""
+
+#: ../patterns/main-banner.php:18
+msgid "Transform Your Business With Expert Consulting Services"
+msgstr ""
+
+#: ../patterns/main-banner.php:22
+msgid "Vestibulum fringilla pede sit amet augue. Phasellus a est. Integer tincidunt. In hac habitasse platea dictumst. Ut a nisl id ante tempus hendrerit. Phasellus magna. Nam adipiscing. Praesent venenatis metus at tortor pulvinar varius. Vivamus euismod mauris. Nullam vel sem."
+msgstr ""
+
+#: ../patterns/main-banner.php:38
+msgid "Our Trusted Partner:"
+msgstr ""
+
+#: ../patterns/news.php:12
+msgid "News"
+msgstr ""
+
+#: ../patterns/news.php:12
+msgid "Articles"
+msgstr ""
+
+#: ../patterns/news.php:16
+msgid "Latest News And Articles"
+msgstr ""
+
+#: ../patterns/portfolio.php:11
+msgid "Our Recent Works"
+msgstr ""
+
+#: ../patterns/portfolio.php:21
+msgid "Business Consulting"
+msgstr ""
+
+#: ../patterns/portfolio.php:31, ../patterns/portfolio.php:63
+msgid "System Analysis"
+msgstr ""
+
+#: ../patterns/portfolio.php:41
+msgid "Security Services"
+msgstr ""
+
+#: ../patterns/portfolio.php:53
+msgid "Advertising Technology"
+msgstr ""
+
+#: ../patterns/portfolio.php:73
+msgid "Sales Analysis"
+msgstr ""
+
+#: ../patterns/services.php:17
+msgid "Consulting Services We Offered"
+msgstr ""
+
+#: ../patterns/services.php:36, ../patterns/services.php:50, ../patterns/services.php:64, ../patterns/services.php:80, ../patterns/services.php:94, ../patterns/services.php:108
+msgid "Etiam ultricies nisi vel augue. Fusce fermentum. Curabitur ullamcorper ultricies nisi. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Morbi ac felis."
+msgstr ""
+
+#: ../patterns/services.php:90
+msgid "Managing Consulting"
+msgstr ""
+
+#: ../patterns/services.php:104
+msgid "Human Resources Consulting"
+msgstr ""
+
+#: ../patterns/sidebar.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:22
+msgid "Categories"
+msgstr ""
+
+#: ../patterns/sidebar.php:30
+msgid "Tags"
+msgstr ""
+
+#: ../patterns/single-product.php:10
+msgid "Single Product"
+msgstr ""
+
+#: ../patterns/single-product.php:58
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/team.php:15
+msgid "Our Awesome Team"
+msgstr ""
+
+#: ../patterns/team.php:19
+msgid "Cras non dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: ../patterns/team.php:29, ../patterns/team.php:77, ../patterns/team.php:101
+msgid "Meriga Linga"
+msgstr ""
+
+#: ../patterns/team.php:33
+msgid "CEO/Developer"
+msgstr ""
+
+#: ../patterns/team.php:53
+msgid "John Smith"
+msgstr ""
+
+#: ../patterns/team.php:57
+msgid "COO/Developer"
+msgstr ""
+
+#: ../patterns/team.php:81
+msgid "CTO/Developer"
+msgstr ""
+
+#: ../patterns/team.php:105
+msgid "CFO/Developer"
+msgstr ""

@@ -1,0 +1,98 @@
+/* Responsive CSS */
+
+@media screen and (max-width:1169px) and (min-width:981px) {
+	html{overflow-x:hidden; }
+	.banner-wrap h2{
+		font-size: 40px !important;
+	}
+	.team-main-box {
+	    display: grid !important;
+	    grid-template-columns: auto auto;
+	    gap: 80px;
+	}
+	.banner-service {
+	    padding: 20px !important;
+	    gap: 5px;
+	}
+}
+
+@media screen and (max-width: 980px){
+	.fse-overlap-image{ position:relative !important; right:auto !important; bottom:auto !important; margin:25px 0 !important;}
+	.wp-block-section-01 h2, .wp-block-section-02 h2{ font-size:28px !important; }
+	.wpcf7 input[type="text"], 
+	.wpcf7 input[type="tel"], 
+	.wpcf7 input[type="email"], 
+	.wpcf7 textarea{ 
+		width:100%;
+	}	
+	.blog-area .wp-block-post-template{
+		grid-template-columns: auto auto;
+	}
+	.menu-header,
+	.menu-header p,
+	.banner-wrap h2,
+	.banner-wrap p,
+	.team-text-box,
+	.top-bar p,
+	.testimonial-box,
+	.site-blog-box,
+	.site-blog-box h3,
+	.site-blog-box p{
+		text-align: center;
+	}
+	.top-bar .wp-block-social-links,
+	.menu-header nav,
+	.menu-header ul,
+	.menu-header .wp-block-buttons,
+	.banner-wrap .wp-block-buttons,
+	.logo-box {
+		justify-content: center;
+	}
+	.services-main-box,.team-main-box {
+	    display: grid !important;
+	    grid-template-columns: auto auto;
+	    gap: 80px;
+	}
+	.about-us-box {
+	    flex-wrap: nowrap !important;
+		justify-content: center !important;
+		align-items: center !important;
+	}
+	.testimonial-box h2.main-heading {
+	    font-size: 40px !important;
+	}
+	.banner-service {
+	    display: grid !important;
+	    grid-template-columns: auto auto;
+	}
+	.inner-col-service {
+	    flex-wrap: nowrap !important;
+	    gap: 8px !important;
+	}
+}
+
+@media screen and (max-width:767px) {
+	*{box-sizing:border-box;}
+	.wp-block-navigation__responsive-container.is-menu-open.has-modal-open{ padding:25px;}
+	.banner-wrap:after {
+	    width: auto;
+	}
+	.banner-wrap h2{
+		font-size: 45px !important;
+	}
+	.banner-service{
+		margin-top: 15px !important;
+		padding: 10px !important;
+		gap: 15px;
+		display: flex !important;
+	}
+	.inner-col-service h3{
+		font-size: 20px !important;
+	}
+	.team-main-box {
+	    display: flex !important;
+	}
+	.about-us-box {
+	    flex-wrap: wrap !important;
+	}	
+}

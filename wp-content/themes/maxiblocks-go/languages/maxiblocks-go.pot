@@ -1,0 +1,128 @@
+# Copyright (C) 2024 MaxiBlocks
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: MaxiBlocks Go 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/maxiblocks-go\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-02T15:14:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: maxiblocks-go\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "MaxiBlocks Go"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Create professional websites in record time with the MaxiBlocks Go theme. Our designer-made block patterns, full-page templates, global style cards, and customisable SVG icons make it simple to build unique sites. Web professionals will love MaxiBlocks' extensive customisation options and advanced responsive controls. Deliver high-quality client sites more efficiently and profitably, spending less time battling code and more time growing your business. Whether you're a solo creator needing an online presence or an agency looking to improve your workflow, MaxiBlocks helps you build polished websites without the usual frustrations. Try MaxiBlocks Go today and experience the difference for yourself."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: patterns/basic-footer.php:27
+msgid "MaxiBlocks"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://maxiblocks.com/about/"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:68
+#: assets/src/admin/php/install-maxi-plugin.php:68
+msgid "Thank you for choosing the MaxiBlocks Go theme"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:71
+#: assets/src/admin/php/install-maxi-plugin.php:71
+msgid "Please activate the MaxiBlocks companion plugin"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:71
+#: assets/src/admin/php/install-maxi-plugin.php:71
+msgid "Please install the MaxiBlocks companion plugin"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:74
+#: assets/src/admin/php/install-maxi-plugin.php:74
+msgid "Get advanced block editing features, responsive controls, interactions and hover effects. Explore 2,200+ designer-made patterns, 190 pages, 14,200 icons and 100 global style cards to speed up your design process."
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:79
+#: assets/src/admin/php/install-maxi-plugin.php:79
+msgid "Activate MaxiBlocks plugin"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:79
+#: assets/src/admin/php/install-maxi-plugin.php:79
+msgid "Install MaxiBlocks plugin"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:83
+#: assets/src/admin/php/install-maxi-plugin.php:83
+msgid "More info"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:208
+#: assets/src/admin/php/install-maxi-plugin.php:208
+msgid "Activating"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:209
+#: assets/src/admin/php/install-maxi-plugin.php:209
+msgid "Installing"
+msgstr ""
+
+#: assets/build/admin/php/install-maxi-plugin.php:210
+#: assets/src/admin/php/install-maxi-plugin.php:210
+msgid "Done"
+msgstr ""
+
+#: functions.php:102
+msgid "Custom Theme CSS"
+msgstr ""
+
+#: patterns/basic-blog-home.php
+msgctxt "Pattern title"
+msgid "Basic Blog Home"
+msgstr ""
+
+#: patterns/basic-footer.php
+msgctxt "Pattern title"
+msgid "Basic Footer"
+msgstr ""
+
+#: patterns/basic-footer.php:17
+msgid "Have any questions?"
+msgstr ""
+
+#: patterns/basic-footer.php:27
+msgid "© Copyright – Made with"
+msgstr ""
+
+#: patterns/basic-header.php
+msgctxt "Pattern title"
+msgid "Basic Header"
+msgstr ""
+
+#: patterns/basic-single-post.php
+msgctxt "Pattern title"
+msgid "Basic Single Post"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""

@@ -1,0 +1,723 @@
+# Translation of Themes - Aasta in Chinese (China)
+# This file is distributed under the same license as the Themes - Aasta package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-12-24 09:24:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Aasta\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Aasta is a modern and powerful multipurpose business WordPress theme with a high-quality look that helps to make a beautiful website for each firm, company, and industry. Aasta is a lightweight, super-fast theme to accelerate your efforts. It comes packed with powerful features for designing and customizing theme pages, advanced typography, sticky menu, header styles, logo upload, translation ready (WPML, Polylang), built with SEO in mind and it's built to be beautiful on all screen sizes. The theme is perfectly suited for business, consultant, finance, corporate, freelancer, agency, business promotion, personal portfolio, electrician, industries, education, SEO, construction, fashion, online shop, health & medical, Beauty & spa salons, wedding, photography, gym, cafe, music, interior design firms, architecture firms, lawyer, restaurant, hotel, blog, magazine, travel agency and many other websites compatible. This theme supports the best Elementor page builder to create, edit, and update page designs as per the requirement. Aasta also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of Aasta Pro https://themearile.com/aasta-pro-theme/"
+msgstr "Aasta 是一款现代、功能强大的多用途商业WordPress主题。主题有着高质量的外观样式，有助于为每家公司、企业和行业打造美丽的网站。Aasta 是一个轻量、加载超快的主题，可以加速您的网站打开速度。它集成了强大的功能，用于设计和定制主题页面，包括高级的排版、固定菜单、头部页眉样式、上传Logo标志、多语言翻译（WPML、Polylang），考虑了SEO优化，并且在不同尺寸的屏幕上都能呈现出美丽的效果。Aasta主题非常适合商业、顾问、金融、公司、自由职业者、机构、业务推广、个人作品展示、电工、工业、教育、SEO、建筑、时尚、在线商店、健康与医疗、美容美发沙龙、婚礼、摄影、健身房、咖啡馆、音乐、室内设计公司、建筑公司、律师、餐厅、酒店、博客、杂志、旅行社等等网站类型。Aasta主题支持当下最热门的Elementor网页设计插件。您可根据自己的需求，创建、编辑和更新网页的设计。Aasta 还支持其他一些流行的免费和付费WordPress插件，例如Elementor、Yoast SEO、WooCommerce、Contact Form 7、Jetpack、Google Analytics 等等。查看 Aasta Pro 的演示 https://themearile.com/aasta-pro-theme/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Aasta"
+msgstr "Aasta（阿斯塔）"
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: template-parts/content.php:42
+msgid "Featured"
+msgstr "精选"
+
+#: template-parts/content-single.php:39 template-parts/content.php:44
+msgid ", "
+msgstr ", "
+
+#: template-parts/content-single.php:37 template-parts/content.php:39
+msgid "by "
+msgstr "作者 "
+
+#: template-parts/content-page.php:22 template-parts/content.php:52
+msgid "Pages:"
+msgstr "页面："
+
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "似乎我们找不到您要找的东西。也许搜索可以帮助您。"
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词试试。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发表您的第一篇文章了吗？<a href=\"%1$s\">从这里开始</a>。"
+
+#: searchform.php:4
+msgid "Go"
+msgstr "确定"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "搜索"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "构建器页面"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "主页"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/template-tags.php:334
+msgid "Get started with %1$s"
+msgstr "开始使用 %1$s"
+
+#: inc/template-tags.php:328
+msgid "To take full advantage of all the features of this theme, please install and activate the <strong>Arile Super</strong> plugin, then enjoy this theme."
+msgstr "要充分利用这个主题的所有功能，请安装并激活<strong>Arile Super</strong>插件，然后享受这个主题。"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/template-tags.php:324
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "欢迎！感谢您选择 %1$s!"
+
+#: inc/template-tags.php:317
+msgid "Theme Screenshot"
+msgstr "主题截图"
+
+#: inc/template-tags.php:208
+msgid "Error 404"
+msgstr "404错误"
+
+#: inc/template-tags.php:171
+msgid "Archive by category"
+msgstr "分类"
+
+#: inc/template-tags.php:166 inc/template-tags.php:169
+msgid "Home"
+msgstr "主页"
+
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:130
+msgid "Search results for"
+msgstr "搜索结果："
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:123
+msgid "404"
+msgstr "404"
+
+#. translators: %1$s %2$s: WooCommerce
+#: inc/template-tags.php:113
+msgid "Shop"
+msgstr "商店"
+
+#. translators: %1$s %2$s: tag
+#: inc/template-tags.php:110
+msgid "Tag"
+msgstr "标签"
+
+#. translators: %1$s %2$s: category
+#: inc/template-tags.php:107
+msgid "Category"
+msgstr "分类"
+
+#. translators: %1$s %2$s: author
+#: inc/template-tags.php:104
+msgid "All posts by"
+msgstr "该作者的所有文章"
+
+#. translators: %1$s %2$s: day
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#: inc/template-tags.php:95 inc/template-tags.php:98 inc/template-tags.php:101
+msgid "Archives"
+msgstr "文章归档"
+
+#. translators: %1$s %2$s: day
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#. translators: %1$s %2$s: author
+#. translators: %1$s %2$s: category
+#. translators: %1$s %2$s: tag
+#. translators: %1$s %2$s: WooCommerce
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:95 inc/template-tags.php:98 inc/template-tags.php:101
+#: inc/template-tags.php:104 inc/template-tags.php:107
+#: inc/template-tags.php:110 inc/template-tags.php:113
+#: inc/template-tags.php:130
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:76 template-parts/content-single.php:46
+#: template-parts/content.php:51
+msgid "Read More"
+msgstr "阅读更多"
+
+#: inc/template-tags.php:59
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: inc/template-tags.php:51
+msgid "at"
+msgstr "在"
+
+#: inc/metabox.php:38
+msgid "Choose Sidebar Template for the Default Page Templates"
+msgstr "选择默认页面模板的侧边栏模板"
+
+#: inc/metabox.php:10
+msgid "Sidebar Layout"
+msgstr "侧边栏布局"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-page-header-customizer-settings.php:56
+msgid "Background color"
+msgstr "背景颜色"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-page-header-customizer-settings.php:42
+msgid "Page Header Enable/Disable"
+msgstr "页眉 启用/禁用"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-menu-bar-customizer-settings.php:46
+msgid "Static"
+msgstr "静态"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-menu-bar-customizer-settings.php:45
+msgid "Sticky"
+msgstr "置顶"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-menu-bar-customizer-settings.php:42
+msgid "Menu Style"
+msgstr "菜单样式"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-menu-bar-customizer-settings.php:27
+msgid "Menu Settings"
+msgstr "菜单设置"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-general-customizer-settings.php:42
+msgid "Site Animation Enable/Disable"
+msgstr "网站动画效果 启用/禁用"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-general-customizer-settings.php:29
+msgid "General Settings"
+msgstr "常用设置"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-footer-widget-customizer-settings.php:48
+#: inc/customizer/customizer-settings/theme-settings/aasta-menu-bar-customizer-settings.php:65
+msgid "Container Full"
+msgstr "全宽容器"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-footer-widget-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/aasta-menu-bar-customizer-settings.php:64
+msgid "Container"
+msgstr "容器"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-footer-widget-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/aasta-menu-bar-customizer-settings.php:61
+msgid "Container Width"
+msgstr "容器宽度"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-footer-widget-customizer-settings.php:30
+msgid "Footer Widget Area Enable/Disable"
+msgstr "页脚小工具区域 启用/禁用"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-footer-copyright-customizer-settings.php:29
+msgid "Footer Copyright Enable/Disable"
+msgstr "页脚版权 启用/禁用"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:135
+msgid "Logo Width"
+msgstr "Logo 宽度"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:100
+msgid "Single Blog Pages"
+msgstr "单篇文章页面"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:85
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:113
+msgid "Layout"
+msgstr "布局"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:71
+msgid "Archive Blog Pages"
+msgstr "博客分类页"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:61
+msgid "Meta Date Enable/Disable"
+msgstr "日期 启用/禁用"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:48
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:47
+msgid "Meta"
+msgstr "元信息"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:43
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "拖放文章项目以重新排列顺序，还可以通过单击眼睛图标隐藏和显示项目。"
+
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:26
+msgid "Blog/Archive/Single"
+msgstr "博客/分类归档/单篇文章"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:629
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:662
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:624
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:654
+msgid "Remove Icon"
+msgstr "删除图标"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:607
+msgid "Social icons"
+msgstr "社交图标"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:599
+#: inc/customizer/customizer-settings/aasta-customize-base-customizer-settings.php:74
+msgid "None"
+msgstr "无"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Image type"
+msgstr "图片类型"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:584
+msgid "Center"
+msgstr "居中"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Right"
+msgstr "靠右"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Left"
+msgstr "靠左"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Slide Content Format"
+msgstr "幻灯片内容格式"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:563
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:560
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Image"
+msgstr "图片"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:543
+msgid "//fontawesome.io/icons/"
+msgstr "//fontawesome.io/icons/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:542
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意：某些图标可能没有显示在此处。 您可以在 %1$s 上看到完整的图标列表。"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:537
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:597
+msgid "Icon"
+msgstr "图标"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:528
+msgid "Yes"
+msgstr "确定"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "No"
+msgstr "不"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:521
+msgid "Open link in new tab"
+msgstr "在新标签页中打开链接"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr "删除字段"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr "称谓"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr "简码"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:309
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr "视频网址"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:290
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:621
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:643
+msgid "Link"
+msgstr "链接"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:270
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:419
+msgid "Text"
+msgstr "文字"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:263
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr "副标题"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:256
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:405
+#: inc/customizer/customizer-settings/theme-settings/aasta-blog-general-customizer-settings.php:46
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "自定义编辑重复项"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "添加一个新字段"
+
+#: inc/customizer/customizer-notice/aasta-customizer-notify.php:113
+msgid "Activating"
+msgstr "正在启用"
+
+#: inc/customizer/controls/code/aasta-customize-upgrade-control.php:36
+msgid "and get the other pro features."
+msgstr "并获取其他专业功能。"
+
+#: inc/customizer/controls/code/aasta-customize-typography-control.php:50
+msgid "Google Fonts"
+msgstr "谷歌字体"
+
+#: inc/customizer/controls/code/aasta-customize-typography-control.php:39
+msgid "Standard Fonts"
+msgstr "标准字体"
+
+#: inc/customizer/controls/code/aasta-customize-slider-control.php:70
+msgid "Reset"
+msgstr "重置"
+
+#: inc/customizer/controls/code/aasta-customize-plugin-control.php:31
+msgid "Share a Good Review"
+msgstr "分享好评"
+
+#: inc/customizer/controls/code/aasta-customize-plugin-control.php:27
+msgid "Free Vs Pro Features"
+msgstr "免费 Vs 专业版 功能"
+
+#: inc/customizer/controls/code/aasta-customize-plugin-control.php:25
+msgid "Get Full Support"
+msgstr "获得更多支持"
+
+#: inc/customizer/controls/code/aasta-customize-plugin-control.php:23
+msgid "View Documentation"
+msgstr "查看使用手册"
+
+#: inc/customizer/controls/code/aasta-customize-plugin-control.php:11
+#: inc/customizer/controls/code/aasta-customize-plugin-control.php:29
+msgid "Upgrade to Pro"
+msgstr "升级到专业版"
+
+#: inc/customizer/controls/code/aasta-customize-base-control.php:30
+msgid "Color value"
+msgstr "颜色值"
+
+#: inc/customizer/controls/code/aasta-customize-base-control.php:29
+msgid "Select Color"
+msgstr "选择颜色"
+
+#: inc/customizer/controls/code/aasta-customize-base-control.php:28
+msgid "Select default color"
+msgstr "选择默认颜色"
+
+#: inc/customizer/controls/code/aasta-customize-base-control.php:27
+msgid "Default"
+msgstr "默认"
+
+#: inc/customizer/controls/code/aasta-customize-base-control.php:26
+msgid "Clear color"
+msgstr "清除颜色"
+
+#: inc/customizer/controls/code/aasta-customize-base-control.php:25
+msgid "Clear"
+msgstr "清除"
+
+#: inc/customizer/aasta-panels-and-sections.php:135
+msgid "Headings H6"
+msgstr "标题 H6"
+
+#: inc/customizer/aasta-panels-and-sections.php:129
+msgid "Headings H5"
+msgstr "标题 H5"
+
+#: inc/customizer/aasta-panels-and-sections.php:123
+msgid "Headings H4"
+msgstr "标题 H4"
+
+#: inc/customizer/aasta-panels-and-sections.php:117
+msgid "Headings H3"
+msgstr "标题 H3"
+
+#: inc/customizer/aasta-panels-and-sections.php:111
+msgid "Headings H2"
+msgstr "标题 H2"
+
+#: inc/customizer/aasta-panels-and-sections.php:105
+msgid "Headings H1"
+msgstr "标题 H1"
+
+#: inc/customizer/aasta-panels-and-sections.php:98
+msgid "Base Typography"
+msgstr "基本字体样式"
+
+#: inc/customizer/aasta-panels-and-sections.php:91
+#: inc/customizer/customizer-settings/theme-settings/aasta-typography-customizer-settings.php:32
+msgid "Enable Typography"
+msgstr "启用字体样式"
+
+#: inc/customizer/aasta-panels-and-sections.php:85
+msgid "Typography"
+msgstr "字体样式"
+
+#: inc/customizer/aasta-panels-and-sections.php:67
+msgid "Footer Widgets"
+msgstr "页脚小工具"
+
+#: inc/customizer/aasta-panels-and-sections.php:61
+msgid "Footer"
+msgstr "页脚"
+
+#: inc/customizer/aasta-panels-and-sections.php:45
+msgid "Blog"
+msgstr "博客"
+
+#: inc/customizer/aasta-panels-and-sections.php:36
+msgid "Menu"
+msgstr "菜单"
+
+#: inc/customizer/aasta-panels-and-sections.php:27
+msgid "Header"
+msgstr "页眉"
+
+#: inc/customizer/aasta-panels-and-sections.php:19
+#: inc/customizer/aasta-panels-and-sections.php:51
+msgid "General"
+msgstr "常用"
+
+#: inc/customizer/aasta-panels-and-sections.php:12
+msgid "Theme Options"
+msgstr "主题设置"
+
+#: inc/customizer/customizer-notice/aasta-notify-plugin.php:23
+msgid "Deactivate"
+msgstr "禁用"
+
+#: inc/customizer/customizer-notice/aasta-notify-plugin.php:22
+msgid "Activate"
+msgstr "激活"
+
+#: inc/customizer/customizer-notice/aasta-notify-plugin.php:21
+msgid "Install and Activate"
+msgstr "安装并激活"
+
+#: inc/customizer/customizer-notice/aasta-notify-plugin.php:20
+msgid "Recommended Plugin"
+msgstr "推荐插件"
+
+#: inc/customizer/customizer-notice/aasta-notify-plugin.php:19
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer-notice/aasta-notify-plugin.php:14
+msgid "If you want to show all the features and business sections of the FrontPage. please install and activate %s plugin"
+msgstr "如果要显示主页的所有功能和区块。 请安装并激活%s插件"
+
+#: inc/customizer/aasta-customizer-options.php:152
+#: inc/customizer/aasta-panels-and-sections.php:74
+msgid "Footer Copyright"
+msgstr "页脚版权"
+
+#: inc/customizer/aasta-customizer-options.php:59
+msgid "You can enter font-size in px or rem "
+msgstr "您可以输入以px或rem为单位的字体大小"
+
+#: inc/customizer/aasta-customizer-options.php:58
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/customizer/aasta-customizer-options.php:43
+#: inc/customizer/aasta-customizer-options.php:70
+#: inc/customizer/aasta-customizer-options.php:83
+#: inc/customizer/aasta-customizer-options.php:96
+#: inc/customizer/aasta-customizer-options.php:109
+#: inc/customizer/aasta-customizer-options.php:122
+#: inc/customizer/aasta-customizer-options.php:135
+msgid "Font Family"
+msgstr "字体系列"
+
+#: inc/customizer/aasta-customizer-options.php:32
+msgid "You can Upload the Standrad size of logo (210px*39px)"
+msgstr "您可以上传标准尺寸的Logo（210px*39px）"
+
+#: inc/customizer/aasta-customizer-options.php:31
+msgid "Set Sticky Bar Logo"
+msgstr "设置置顶导航条的Logo"
+
+#: inc/customizer/aasta-customizer-options.php:21
+#: inc/customizer/customizer-settings/theme-settings/aasta-page-header-customizer-settings.php:29
+msgid "Page Header"
+msgstr "页眉"
+
+#: inc/class-bootstrap-navwalker.php:207
+msgid "Add a menu"
+msgstr "添加一个菜单"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "跳至正文"
+
+#: functions.php:129
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce 侧边栏"
+
+#: functions.php:125
+msgid "Footer Sidebar Four"
+msgstr "页脚区域 4"
+
+#: functions.php:124
+msgid "Footer Sidebar Three"
+msgstr "页脚区域 3"
+
+#: functions.php:123
+msgid "Footer Sidebar Two"
+msgstr "页脚区域 2"
+
+#: functions.php:122
+msgid "Footer Sidebar One"
+msgstr "页脚区域 1"
+
+#: functions.php:121
+msgid "Sidebar Widget Area"
+msgstr "侧边栏小工具区"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "主菜单"
+
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: comments.php:67
+msgid "Submit"
+msgstr "提交"
+
+#: comments.php:65
+msgid "Logout"
+msgstr "退出登录"
+
+#: comments.php:65
+msgid "Log out of this account"
+msgstr "退出当前账号"
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "使用以下身份登录"
+
+#: comments.php:63
+msgid "Comment"
+msgstr "评论"
+
+#: comments.php:55
+msgid "Email"
+msgstr "电子邮箱"
+
+#: comments.php:54
+msgid "Name"
+msgstr "名称"
+
+#. translators: %1$s %2$s: logged in
+#: comments.php:48
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "您必须 <a href=\"%s\">登录</a> 后才可以发表评论"
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "最新评论 &rarr;"
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr "早期评论"
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:26
+msgid "% comments"
+msgstr "% 评论"
+
+#: comments.php:26
+msgid "One comment"
+msgstr "一条评论"
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "没有评论"
+
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章受密码保护。输入密码以查看评论。"
+
+#: 404.php:22
+msgid "Go to Home"
+msgstr "前往首页"
+
+#: 404.php:20
+msgid "OOPS, SORRY WE CAN'T FIND THAT PAGE !"
+msgstr "抱歉，我们找不到该页面！"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themearile.com"
+msgstr "https://themearile.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeArile"
+msgstr "ThemeArile"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themearile.com/aasta-theme/"
+msgstr "https://themearile.com/aasta-theme/"

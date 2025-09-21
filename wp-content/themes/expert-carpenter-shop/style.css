@@ -1,0 +1,80 @@
+/*
+Theme Name: Expert Carpenter Shop
+Theme URI: https://www.seothemesexpert.com/products/expert-carpenter-shop-theme
+Author: drakearthur
+Author URI: https://www.seothemesexpert.com/
+Description: The Expert Carpenter Shop Theme is a multipurpose and modern theme designed for carpenters, custom furniture makers, woodworking services, home renovation carpenters, modular furniture installers, wooden door carpenters, interior woodwork experts, furniture restoration specialists, joinery services, cabinet makers, and related businesses to showcase your carpentry, woodworking, and interior design services in the most elegant and sophisticated way. Built with a clean, minimal layout, this theme ensures a beautiful, user-friendly interface that delivers a seamless browsing experience across all devices. Being responsive, retina-ready, and mobile-friendly, it guarantees that your website looks stunning and performs smoothly on desktops, tablets, and smartphones. Packed with personalization options, this theme offers advanced customization through easy-to-use settings, shortcodes, and a Bootstrap framework for effortless editing. You can create engaging layouts with animated elements, add a visually appealing banner, showcase your team, and display client feedback with a dedicated testimonial section. The integrated Call to Action (CTA) buttons and social media icons help boost engagement and conversions, while the agency-friendly design makes it suitable for businesses, freelancers, and professional developers. Optimized for performance, the theme comes with optimized codes, secure and clean code, and faster page load time, ensuring a smooth and reliable user experience. It is translation-ready, making it ideal for global businesses, and supports essential plugins like Contact Form 7 for easy communication and lead generation. Whether you want to build a professional carpentry portfolio, promote an interior design studio, or launch a woodworking agency website, this multipurpose theme offers everything you need. With its luxurious design, interactive features, and advanced customization, the Expert Carpenter Shop Theme is the ultimate choice for creating a beautiful, professional, and high-performing website that stands out. From showcasing your craftsmanship to connecting with potential clients, this theme delivers stunning visuals, clean code, and modern functionality for a truly sophisticated web presence.
+Version: 1.3
+Tested up to: 6.8
+Requires PHP: 7.2
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: expert-carpenter-shop
+Template: woodworking-workshop
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, grid-layout, wide-blocks, editor-style, full-width-template, custom-background, custom-colors, custom-header, custom-logo, custom-menu, sticky-post, featured-images, footer-widgets, flexible-header, featured-image-header, post-formats, theme-options, threaded-comments, translation-ready, rtl-language-support, blog, portfolio, e-commerce
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+:root {
+  --color-primary1: #ab7442;
+  --color-primary2: #8b511c;
+}
+a{
+    text-decoration: none;
+}
+#slider-section .carousel-control-next i, #slider-section .carousel-control-prev i, #slider-section .read-btn a:hover{
+  background: #fff;
+  border: none;
+  color: #000;
+}
+#slider-section .carousel-control-next i:hover, #slider-section .carousel-control-prev i:hover, #slider-section .read-btn a{
+  background: var(--color-primary1);
+  color: #fff;
+}
+.upper-header-aera i{
+  color: #fff;
+}
+.serv-content{
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+}
+#service-offer .title-box{
+  left: 0;
+  right: 0;
+  background: var(--color-primary1);
+}
+#service-offer .titlebox{
+  margin: 4em 6em 2em 0;
+}
+#service-offer .title-box i{
+  background: #fff;
+  color: #000;
+}
+.inner_searchbox button.search-submit i{
+  color: #fff;
+}
+.serv-sec-btn a{
+  background: #332f2e;
+  color: #fff;
+  border: 1px solid #332f2e;
+}
+.serv-sec-btn a:hover{
+  border: 1px solid var(--color-primary1);
+}
+/*responsive css*/
+@media (max-width: 767px) {
+  #slider-section .carousel-control-next, #slider-section .carousel-control-prev{
+    display: none;
+  }
+}
+@media (max-width: 1000px) {
+  button.navbar-toggler {
+    background: #fff;
+  }
+  #service-offer .titlebox{
+    margin: 0;
+  }
+}

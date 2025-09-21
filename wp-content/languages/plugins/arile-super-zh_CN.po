@@ -1,0 +1,1291 @@
+# Translation of Plugins - Arile Super - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Arile Super - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-12-27 09:18:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Arile Super - Stable (latest release)\n"
+
+#: inc/aasta/front-page/super-house-decor-service.php:4
+msgid "WE BUILD CREATIVE INTERIOR DESIGN\n"
+msgstr "我们专注于富有创意的室内设计\n"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:324
+#: inc/aasta/front-page/super-hartford-slider.php:58
+msgid "Strategy and growth solutions for business"
+msgstr "为企业提供战略和增长方案"
+
+#: inc/aasta/front-page/super-globalhub-slider.php:58
+msgid "Grow your business fast "
+msgstr "快速发展您的业务 "
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:300
+#: inc/aasta/customizer/super-aasta-customizer-default.php:310
+#: inc/aasta/front-page/super-globalhub-slider.php:59
+#: inc/aasta/front-page/super-globalhub-slider.php:74
+msgid "GlobalHub is a most popular Multipurpose WordPress themes in the world. The designs are clean, modern, and feature strong default colors that inspire confidence."
+msgstr "GlobalHub是世界上最流行的多功能WordPress主题之一。其设计干净、现代，拥有独特的默认配色，给人以信心和启发。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:299
+#: inc/aasta/front-page/super-globalhub-slider.php:57
+msgid "We provide great ideas to"
+msgstr "我们提供出色的创意想法"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:298
+msgid "Grow your business fast"
+msgstr "快速发展您的业务"
+
+#: inc/aasta/front-page/super-builderzone-service.php:4
+msgid "BEST CONSTRUCTION SERVICES"
+msgstr "最佳的建筑服务"
+
+#: inc/aasta/front-page/super-builderzone-project.php:98
+msgid "Roof Remodel"
+msgstr "屋顶改造"
+
+#: inc/aasta/front-page/super-builderzone-project.php:87
+msgid "Project Planning"
+msgstr "项目规划"
+
+#: inc/aasta/front-page/super-builderzone-project.php:76
+msgid "Furniture Design"
+msgstr "家具设计"
+
+#: inc/aasta/front-page/super-builderzone-project.php:6
+msgid "Construction Works"
+msgstr "建筑工程"
+
+#: inc/aasta/front-page/super-builderzone-project.php:5
+msgid "OUR PROJECTS"
+msgstr "我们的项目"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:947
+msgid "ROOF REMODEL"
+msgstr "屋顶改造"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:941
+msgid "PROJECT PLANNING"
+msgstr "项目规划"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:935
+msgid "FURNITURE DESIGN"
+msgstr "家具设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:688
+#: inc/aasta/front-page/super-builderzone-service.php:108
+msgid "OFFICE DESIGN"
+msgstr "办公室设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:678
+#: inc/aasta/front-page/super-builderzone-service.php:99
+msgid "DESIGN AND BUILD"
+msgstr "设计和建造"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:283
+#: inc/aasta/front-page/super-builderzone-slider.php:72
+msgid "Explore the Features"
+msgstr "探索功能"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:282
+#: inc/aasta/front-page/super-builderzone-slider.php:73
+msgid "Innovative Solution"
+msgstr "创新的解决方案"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:274
+#: inc/aasta/customizer/super-aasta-customizer-default.php:284
+#: inc/aasta/front-page/super-builderzone-slider.php:59
+#: inc/aasta/front-page/super-builderzone-slider.php:74
+msgid "We provide all types of construction and architecture services such as exterior design, house design, kitchen design, room design, furniture design, light design, etc. With the help of this, you can build your dream house."
+msgstr "我们提供各类建筑服务例如外观设计、房屋设计、厨房设计、房间设计、家具设计、灯光设计、等等。您可以打造自己的梦想之家。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:272
+#: inc/aasta/front-page/super-builderzone-slider.php:58
+msgid "Construction Industry"
+msgstr "建筑业"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:273
+#: inc/aasta/front-page/super-builderzone-slider.php:57
+msgid "WE ARE THE BEST TEAM OF"
+msgstr "我们是最佳团队"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:616
+#: inc/aasta/front-page/super-businesslab-service.php:108
+#: inc/aasta/front-page/super-businesstek-service.php:108
+#: inc/aasta/front-page/super-hartford-service.php:108
+msgid "Digital Services"
+msgstr "互联网服务"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:257
+#: inc/aasta/customizer/super-aasta-customizer-default.php:335
+#: inc/aasta/customizer/super-aasta-customizer-default.php:437
+#: inc/aasta/front-page/super-businesscore-slider.php:72
+#: inc/aasta/front-page/super-businesslab-slider.php:72
+#: inc/aasta/front-page/super-hartford-slider.php:72
+msgid "Growth With Us"
+msgstr "与我们一起成长"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:256
+#: inc/aasta/customizer/super-aasta-customizer-default.php:334
+#: inc/aasta/customizer/super-aasta-customizer-default.php:376
+#: inc/aasta/customizer/super-aasta-customizer-default.php:436
+#: inc/aasta/front-page/super-businesscore-slider.php:73
+#: inc/aasta/front-page/super-businesslab-slider.php:73
+#: inc/aasta/front-page/super-businesstek-slider.php:57
+#: inc/aasta/front-page/super-hartford-slider.php:73
+msgid "Take Your Business Online"
+msgstr "将您的业务拓展到互联网"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:246
+#: inc/aasta/front-page/super-businesscore-slider.php:58
+#: inc/aasta/front-page/super-businesslab-slider.php:58
+msgid "We Boost Your Business"
+msgstr "我们助力您的业务"
+
+#: inc/aasta/front-page/super-stockpress-project.php:98
+msgid "Internet Marketing"
+msgstr "互联网营销"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:222
+#: inc/aasta/front-page/super-stockpress-slider.php:57
+msgid "We Provide Innovative Business Services"
+msgstr "我们提供创新服务"
+
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:5
+msgid "Our Testimonials"
+msgstr "客户评价"
+
+#: inc/aasta/front-page/super-architect-studio-service.php:4
+msgid "WE BUILD BEST ARCHITECT DESIGN"
+msgstr "我们打造最佳建筑设计"
+
+#: inc/aasta/front-page/super-architect-studio-project.php:5
+msgid "ALL ARCHITECTURE DESIGN SOLUTIONS"
+msgstr "所有建筑设计方案"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:900
+#: inc/aasta/front-page/super-architect-studio-project.php:65
+msgid "HOME RENOVATIONS"
+msgstr "房屋装修"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:642
+#: inc/aasta/front-page/super-architect-studio-service.php:99
+msgid "HOUSE DECOR"
+msgstr "家居装饰"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:198
+#: inc/aasta/customizer/super-aasta-customizer-default.php:208
+#: inc/aasta/front-page/super-architect-studio-slider.php:62
+#: inc/aasta/front-page/super-architect-studio-slider.php:77
+msgid "We provide all types of architecture and interior design services such as exterior design, house design, kitchen design, room design, furniture design, light design, etc. With the help of which you can build your dream home."
+msgstr "我们提供各类型的建筑和室内设计服务，例如外观设计、房屋设计、厨房设计、房间设计、家具设计、灯光设计、等等。您可以打造梦想中的家。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:197
+#: inc/aasta/front-page/super-architect-studio-slider.php:60
+msgid "EFFECTIVE SOLUTIONS"
+msgstr "有效的解决方案"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:196
+#: inc/aasta/front-page/super-architect-studio-slider.php:61
+msgid "BEST ARCHITECT DESIGN"
+msgstr "最佳建筑设计"
+
+#: inc/aasta/front-page/super-appointech-service.php:4
+msgid "Our Features\n"
+msgstr "我们的特色\n"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:872
+#: inc/aasta/customizer/super-aasta-customizer-default.php:878
+#: inc/aasta/customizer/super-aasta-customizer-default.php:884
+#: inc/aasta/customizer/super-aasta-customizer-default.php:890
+#: inc/aasta/front-page/super-appointech-project.php:66
+#: inc/aasta/front-page/super-appointech-project.php:78
+#: inc/aasta/front-page/super-appointech-project.php:90
+#: inc/aasta/front-page/super-appointech-project.php:102
+#: inc/aasta/front-page/super-businesscore-project.php:66
+#: inc/aasta/front-page/super-businesscore-project.php:78
+#: inc/aasta/front-page/super-businesscore-project.php:90
+#: inc/aasta/front-page/super-businesscore-project.php:102
+#: inc/aasta/front-page/super-businesslab-project.php:66
+#: inc/aasta/front-page/super-businesslab-project.php:78
+#: inc/aasta/front-page/super-businesslab-project.php:90
+#: inc/aasta/front-page/super-businesslab-project.php:102
+#: inc/aasta/front-page/super-businesstek-project.php:66
+#: inc/aasta/front-page/super-businesstek-project.php:78
+#: inc/aasta/front-page/super-businesstek-project.php:90
+#: inc/aasta/front-page/super-businesstek-project.php:102
+#: inc/aasta/front-page/super-hartford-project.php:66
+#: inc/aasta/front-page/super-hartford-project.php:78
+#: inc/aasta/front-page/super-hartford-project.php:90
+#: inc/aasta/front-page/super-hartford-project.php:102
+msgid "Lorem ipsum is simply text.."
+msgstr "示例文本......"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:120
+#: inc/aasta/customizer/super-aasta-customizer-default.php:247
+#: inc/aasta/customizer/super-aasta-customizer-default.php:325
+#: inc/aasta/front-page/super-appointech-slider.php:57
+#: inc/aasta/front-page/super-businesscore-slider.php:57
+#: inc/aasta/front-page/super-businesslab-slider.php:57
+#: inc/aasta/front-page/super-hartford-slider.php:57
+msgid "Growth Your Business"
+msgstr "发展您的业务"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:119
+#: inc/aasta/front-page/super-appointech-slider.php:58
+msgid "Welcome to Appointech"
+msgstr "欢迎来到 Apintech"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:121
+#: inc/aasta/customizer/super-aasta-customizer-default.php:131
+#: inc/aasta/customizer/super-aasta-customizer-default.php:223
+#: inc/aasta/customizer/super-aasta-customizer-default.php:232
+#: inc/aasta/customizer/super-aasta-customizer-default.php:248
+#: inc/aasta/customizer/super-aasta-customizer-default.php:258
+#: inc/aasta/customizer/super-aasta-customizer-default.php:326
+#: inc/aasta/customizer/super-aasta-customizer-default.php:336
+#: inc/aasta/customizer/super-aasta-customizer-default.php:428
+#: inc/aasta/customizer/super-aasta-customizer-default.php:438
+#: inc/aasta/front-page/super-appointech-slider.php:59
+#: inc/aasta/front-page/super-appointech-slider.php:74
+#: inc/aasta/front-page/super-businesscore-slider.php:59
+#: inc/aasta/front-page/super-businesscore-slider.php:74
+#: inc/aasta/front-page/super-businesslab-slider.php:59
+#: inc/aasta/front-page/super-businesslab-slider.php:74
+#: inc/aasta/front-page/super-businesstek-slider.php:58
+#: inc/aasta/front-page/super-businesstek-slider.php:72
+#: inc/aasta/front-page/super-hartford-slider.php:59
+#: inc/aasta/front-page/super-hartford-slider.php:74
+#: inc/aasta/front-page/super-stockpress-slider.php:58
+#: inc/aasta/front-page/super-stockpress-slider.php:72
+msgid "We provide all types of business solutions and services to our valuable customers for the growth of their businesses to the next level."
+msgstr "我们提供各类业务的解决方案和服务，帮助我们的客户取得业务上的新突破。"
+
+#: inc/aasta/front-page/super-consultexo-service.php:4
+msgid "Why Choose Us"
+msgstr "为什么选择我们"
+
+#: inc/aasta/front-page/super-consultexo-project.php:6
+msgid "We provided the best business consulting services."
+msgstr "我们提供最好的商业咨询服务。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:804
+#: inc/aasta/front-page/super-appointech-project.php:101
+#: inc/aasta/front-page/super-businesscore-project.php:101
+#: inc/aasta/front-page/super-businesslab-project.php:101
+#: inc/aasta/front-page/super-businesstek-project.php:101
+#: inc/aasta/front-page/super-consultexo-project.php:98
+#: inc/aasta/front-page/super-hartford-project.php:101
+msgid "Consumer Products"
+msgstr "消费产品"
+
+#: inc/aasta/front-page/super-consultexo-service.php:5
+msgid "We provide the world's best consulting-related services to growth your business."
+msgstr "我们提供世界上最好的咨询服务,帮助发展您的业务。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:786
+#: inc/aasta/front-page/super-appointech-project.php:65
+#: inc/aasta/front-page/super-businesscore-project.php:65
+#: inc/aasta/front-page/super-businesslab-project.php:65
+#: inc/aasta/front-page/super-businesstek-project.php:65
+#: inc/aasta/front-page/super-consultexo-project.php:65
+#: inc/aasta/front-page/super-hartford-project.php:65
+msgid "Growth Expansion"
+msgstr "成长扩张"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:547
+#: inc/aasta/front-page/super-consultexo-service.php:108
+msgid "Market Analysis"
+msgstr "市场分析"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:537
+#: inc/aasta/front-page/super-consultexo-service.php:99
+msgid "Consulting Service"
+msgstr "咨询服务"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:106
+#: inc/aasta/front-page/super-consultexo-slider.php:72
+msgid "Strategies for Enduring Success"
+msgstr "持久成功的策略"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:96
+#: inc/aasta/front-page/super-consultexo-slider.php:57
+msgid "Best Business Advisors"
+msgstr "最佳商业顾问"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:95
+#: inc/aasta/front-page/super-consultexo-slider.php:58
+msgid "Get A Free Consultation"
+msgstr "获取免费的咨询"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:97
+#: inc/aasta/customizer/super-aasta-customizer-default.php:107
+#: inc/aasta/front-page/super-consultexo-slider.php:59
+#: inc/aasta/front-page/super-consultexo-slider.php:74
+msgid "We provide the world's best finance and consulting services to grow your business, so contact us and see the results quickly."
+msgstr "我们提供全球最优质的金融和咨询服务，助您拓展业务。立即联系我们，迅速见到成果。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:105
+#: inc/aasta/front-page/super-consultexo-slider.php:73
+msgid "We help to get solutions"
+msgstr "我们提供解决方案"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:527
+#: inc/aasta/front-page/super-consultexo-service.php:90
+msgid "Corporate Finance"
+msgstr "企业金融领域的专业服务"
+
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:4
+#: inc/aasta/front-page/super-house-decor-testimonial.php:4
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:4
+msgid "WHAT OUR CLIENTS SAY ABOUT US"
+msgstr "客户对我们的评价"
+
+#: inc/aasta/front-page/super-agencyfy-service.php:5
+#: inc/aasta/front-page/super-architect-studio-service.php:5
+#: inc/aasta/front-page/super-builderzone-service.php:5
+#: inc/aasta/front-page/super-house-decor-service.php:6
+#: inc/aasta/front-page/super-interiorhub-service.php:5
+msgid "Our Services"
+msgstr "我们的服务"
+
+#: inc/aasta/front-page/super-interiorhub-service.php:4
+msgid "WE BUILD CREATIVE INTERIOR DESIGN"
+msgstr "我们打造创意室内设计"
+
+#: inc/aasta/front-page/super-house-decor-project.php:5
+#: inc/aasta/front-page/super-interiorhub-project.php:5
+msgid "ALL INTERIOR DESIGN SOLUTIONS"
+msgstr "所有室内设计方案"
+
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:5
+#: inc/aasta/front-page/super-agencywp-testimonial.php:5
+#: inc/aasta/front-page/super-businesscore-testimonial.php:4
+#: inc/aasta/front-page/super-businesslab-testimonial.php:4
+#: inc/aasta/front-page/super-businesstek-testimonial.php:4
+#: inc/aasta/front-page/super-consultexo-testimonial.php:4
+#: inc/aasta/front-page/super-globalhub-testimonial.php:5
+#: inc/aasta/front-page/super-house-decor-testimonial.php:5
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:5
+msgid "Testimonials"
+msgstr "客户评价"
+
+#: inc/aasta/front-page/super-architect-studio-project.php:6
+#: inc/aasta/front-page/super-house-decor-project.php:6
+#: inc/aasta/front-page/super-interiorhub-project.php:6
+msgid "Our Portfolio"
+msgstr "我们的作品集"
+
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:4
+#: inc/aasta/front-page/super-agencywp-testimonial.php:4
+#: inc/aasta/front-page/super-globalhub-testimonial.php:4
+msgid "Happy clients say"
+msgstr "满意的客户说"
+
+#: inc/aasta/front-page/super-agencyfy-project.php:87
+#: inc/aasta/front-page/super-agencywp-project.php:87
+#: inc/aasta/front-page/super-globalhub-project.php:87
+msgid "Data analytics"
+msgstr "数据分析"
+
+#: inc/aasta/front-page/super-agencyfy-project.php:76
+#: inc/aasta/front-page/super-agencywp-project.php:76
+#: inc/aasta/front-page/super-globalhub-project.php:76
+msgid "Market expansion"
+msgstr "市场拓展"
+
+#: inc/aasta/front-page/super-agencyfy-project.php:65
+#: inc/aasta/front-page/super-agencywp-project.php:65
+#: inc/aasta/front-page/super-globalhub-project.php:65
+msgid "StartUp business"
+msgstr "启动商业"
+
+#: inc/aasta/front-page/super-agencywp-project.php:5
+#: inc/aasta/front-page/super-globalhub-project.php:5
+msgid "Our latest works"
+msgstr "我们的最新作品"
+
+#: inc/aasta/front-page/super-aasta-blog.php:4
+msgid "OUR LATEST NEWS"
+msgstr "我们的最新消息"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:860
+#: inc/aasta/customizer/super-aasta-customizer-default.php:889
+#: inc/aasta/front-page/super-agencyfy-project.php:98
+#: inc/aasta/front-page/super-agencywp-project.php:98
+#: inc/aasta/front-page/super-globalhub-project.php:98
+msgid "Internet marketing"
+msgstr "互联网营销"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:826
+#: inc/aasta/customizer/super-aasta-customizer-default.php:912
+#: inc/aasta/front-page/super-architect-studio-project.php:87
+#: inc/aasta/front-page/super-house-decor-project.php:87
+#: inc/aasta/front-page/super-interiorhub-project.php:87
+msgid "ARCHITECTURE DESIGN"
+msgstr "建筑设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:820
+#: inc/aasta/customizer/super-aasta-customizer-default.php:906
+#: inc/aasta/customizer/super-aasta-customizer-default.php:929
+#: inc/aasta/front-page/super-architect-studio-project.php:76
+#: inc/aasta/front-page/super-builderzone-project.php:65
+#: inc/aasta/front-page/super-house-decor-project.php:76
+#: inc/aasta/front-page/super-interiorhub-project.php:76
+msgid "EXTERIOR RENOVATION"
+msgstr "外部装修"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:814
+#: inc/aasta/front-page/super-house-decor-project.php:65
+#: inc/aasta/front-page/super-interiorhub-project.php:65
+msgid "BEDROOM LIGHTING DÉCOR"
+msgstr "卧室灯光装饰"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:571
+#: inc/aasta/front-page/super-agencywp-service.php:102
+#: inc/aasta/front-page/super-appointech-service.php:103
+#: inc/aasta/front-page/super-businesscore-service.php:102
+#: inc/aasta/front-page/super-globalhub-service.php:102
+msgid "Translation"
+msgstr "翻译"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:513
+#: inc/aasta/customizer/super-aasta-customizer-default.php:652
+#: inc/aasta/front-page/super-architect-studio-service.php:108
+#: inc/aasta/front-page/super-house-decor-service.php:109
+#: inc/aasta/front-page/super-interiorhub-service.php:108
+msgid "EXTERIOR DESIGN"
+msgstr "外观设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:503
+#: inc/aasta/customizer/super-aasta-customizer-default.php:632
+#: inc/aasta/customizer/super-aasta-customizer-default.php:668
+#: inc/aasta/front-page/super-architect-studio-service.php:90
+#: inc/aasta/front-page/super-builderzone-service.php:90
+#: inc/aasta/front-page/super-house-decor-service.php:100
+#: inc/aasta/front-page/super-interiorhub-service.php:99
+msgid "ARCHITECTURAL DESIGN"
+msgstr "建筑设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:832
+#: inc/aasta/front-page/super-house-decor-project.php:98
+#: inc/aasta/front-page/super-interiorhub-project.php:98
+msgid "MODULAR KITCHEN DESIGN"
+msgstr "模块化厨房设计"
+
+#: inc/aasta/front-page/super-agencywp-service.php:4
+#: inc/aasta/front-page/super-globalhub-service.php:4
+msgid "We offer many services to growth"
+msgstr "我们提供多种服务，助您实现增长"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:351
+#: inc/aasta/customizer/super-aasta-customizer-default.php:493
+#: inc/aasta/customizer/super-aasta-customizer-default.php:918
+#: inc/aasta/front-page/super-architect-studio-project.php:98
+#: inc/aasta/front-page/super-house-decor-service.php:91
+#: inc/aasta/front-page/super-house-decor-slider.php:56
+#: inc/aasta/front-page/super-interiorhub-service.php:90
+msgid "INTERIOR DESIGN"
+msgstr "室内设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:181
+#: inc/aasta/customizer/super-aasta-customizer-default.php:309
+#: inc/aasta/front-page/super-agencywp-slider.php:72
+#: inc/aasta/front-page/super-globalhub-slider.php:72
+msgid "Criteria for success"
+msgstr "成功标准"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:180
+#: inc/aasta/customizer/super-aasta-customizer-default.php:308
+#: inc/aasta/front-page/super-agencywp-slider.php:73
+#: inc/aasta/front-page/super-globalhub-slider.php:73
+msgid "A world of opportunities"
+msgstr "充满机遇的世界"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:172
+#: inc/aasta/customizer/super-aasta-customizer-default.php:182
+#: inc/aasta/front-page/super-agencywp-slider.php:59
+#: inc/aasta/front-page/super-agencywp-slider.php:74
+msgid "AgencyWP is a most popular Multipurpose WordPress themes in the world. The designs are clean, modern, and feature strong default colors that inspire confidence."
+msgstr "AgencyWP 是最受欢迎的多用途 WordPress 主题世界上最好的。设计简洁、现代，具有强大的默认激发信心的颜色。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:171
+#: inc/aasta/front-page/super-agencywp-slider.php:57
+msgid "Best business goals"
+msgstr "最佳商业目标"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:170
+#: inc/aasta/front-page/super-agencywp-slider.php:58
+msgid "Business grow online"
+msgstr "在线业务增长"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:155
+#: inc/aasta/customizer/super-aasta-customizer-default.php:207
+#: inc/aasta/customizer/super-aasta-customizer-default.php:361
+#: inc/aasta/front-page/super-architect-studio-slider.php:75
+#: inc/aasta/front-page/super-house-decor-slider.php:71
+#: inc/aasta/front-page/super-interiorhub-slider.php:72
+msgid "HOME DECOR"
+msgstr "家居装饰"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:144
+#: inc/aasta/front-page/super-interiorhub-slider.php:58
+msgid "BEST INTERIOR DESIGN"
+msgstr "最佳室内设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:154
+#: inc/aasta/customizer/super-aasta-customizer-default.php:206
+#: inc/aasta/customizer/super-aasta-customizer-default.php:360
+#: inc/aasta/front-page/super-architect-studio-slider.php:76
+#: inc/aasta/front-page/super-house-decor-slider.php:72
+#: inc/aasta/front-page/super-interiorhub-slider.php:73
+msgid "INNOVATE YOUR HOME"
+msgstr "改造您的家"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:146
+#: inc/aasta/customizer/super-aasta-customizer-default.php:156
+#: inc/aasta/customizer/super-aasta-customizer-default.php:352
+#: inc/aasta/customizer/super-aasta-customizer-default.php:362
+#: inc/aasta/customizer/super-aasta-customizer-default.php:377
+#: inc/aasta/customizer/super-aasta-customizer-default.php:386
+#: inc/aasta/front-page/super-house-decor-slider.php:58
+#: inc/aasta/front-page/super-house-decor-slider.php:73
+#: inc/aasta/front-page/super-interiorhub-slider.php:59
+#: inc/aasta/front-page/super-interiorhub-slider.php:74
+msgid "We provide all types of interior and architecture design services such as exterior design, kitchen design, room design, furniture design, light design, etc. With the help of which you can build your dream home."
+msgstr "我们提供各类室内和建筑设计服务，如外部设计、厨房设计、房间设计、家具设计、灯光设计等。借助这些服务，您可以打造您的梦想之家。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:145
+#: inc/aasta/customizer/super-aasta-customizer-default.php:350
+#: inc/aasta/front-page/super-house-decor-slider.php:57
+#: inc/aasta/front-page/super-interiorhub-slider.php:57
+msgid "STYLE & COMFORT"
+msgstr "风格与舒适"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:72
+#: inc/aasta/front-page/super-aasta-slider.php:60
+msgid "Business Growth Online"
+msgstr "在线业务增长"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:71
+#: inc/aasta/customizer/super-aasta-customizer-default.php:385
+#: inc/aasta/customizer/super-aasta-customizer-default.php:426
+#: inc/aasta/front-page/super-aasta-slider.php:61
+#: inc/aasta/front-page/super-businesstek-slider.php:71
+msgid "Grow Your Business Fast"
+msgstr "快速发展您的业务"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:73
+#: inc/aasta/customizer/super-aasta-customizer-default.php:83
+#: inc/aasta/front-page/super-aasta-slider.php:62
+#: inc/aasta/front-page/super-aasta-slider.php:77
+msgid "Aasta Light is a most popular Multipurpose WordPress themes in the world. The designs are clean, modern, and feature strong default colors that inspire confidence."
+msgstr "Aasta Light是世界上最受欢迎的多用途WordPress主题之一。其设计简洁现代，具有鲜明的默认颜色，能激发信心。"
+
+#: inc/arile-super-activator.php:20
+msgid "Home"
+msgstr "主页"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:114
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:97
+#: inc/aasta/front-page/super-agencywp-testimonial.php:114
+#: inc/aasta/front-page/super-appointech-testimonial.php:114
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:114
+#: inc/aasta/front-page/super-builderzone-testimonial.php:97
+#: inc/aasta/front-page/super-businesscore-testimonial.php:97
+#: inc/aasta/front-page/super-businesslab-testimonial.php:97
+#: inc/aasta/front-page/super-businesstek-testimonial.php:97
+#: inc/aasta/front-page/super-consultexo-testimonial.php:97
+#: inc/aasta/front-page/super-globalhub-testimonial.php:114
+#: inc/aasta/front-page/super-hartford-testimonial.php:114
+#: inc/aasta/front-page/super-house-decor-testimonial.php:114
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:97
+#: inc/aasta/front-page/super-stockpress-testimonial.php:97
+msgid "Alexia Dior"
+msgstr "亚历克西亚·迪奥"
+
+#: inc/aasta/front-page/super-aasta-blog.php:75
+msgid "Read More"
+msgstr "阅读更多"
+
+#: inc/aasta/front-page/super-aasta-blog.php:67
+msgid "by "
+msgstr "作者 "
+
+#: inc/aasta/front-page/super-aasta-blog.php:7
+#: inc/aasta/front-page/super-aasta-blog.php:12
+msgid "Our latest news"
+msgstr "我们的最新动态"
+
+#: inc/aasta/front-page/super-aasta-blog.php:5
+#: inc/aasta/front-page/super-aasta-blog.php:8
+#: inc/aasta/front-page/super-aasta-blog.php:11
+msgid "Recent Updates"
+msgstr "最近更新"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:5
+#: inc/aasta/front-page/super-appointech-testimonial.php:5
+#: inc/aasta/front-page/super-builderzone-testimonial.php:5
+#: inc/aasta/front-page/super-businesscore-testimonial.php:5
+#: inc/aasta/front-page/super-businesslab-testimonial.php:5
+#: inc/aasta/front-page/super-businesstek-testimonial.php:5
+#: inc/aasta/front-page/super-consultexo-testimonial.php:5
+#: inc/aasta/front-page/super-hartford-testimonial.php:5
+#: inc/aasta/front-page/super-stockpress-testimonial.php:5
+msgid "What Say Our Happy Clients"
+msgstr "客户对我们的评价"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:4
+#: inc/aasta/front-page/super-appointech-testimonial.php:4
+#: inc/aasta/front-page/super-builderzone-testimonial.php:4
+#: inc/aasta/front-page/super-hartford-testimonial.php:4
+#: inc/aasta/front-page/super-stockpress-testimonial.php:4
+msgid "Our Customer"
+msgstr "我们的客户"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:99
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:86
+#: inc/aasta/front-page/super-agencywp-testimonial.php:99
+#: inc/aasta/front-page/super-appointech-testimonial.php:99
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:99
+#: inc/aasta/front-page/super-builderzone-testimonial.php:86
+#: inc/aasta/front-page/super-businesscore-testimonial.php:86
+#: inc/aasta/front-page/super-businesslab-testimonial.php:86
+#: inc/aasta/front-page/super-businesstek-testimonial.php:86
+#: inc/aasta/front-page/super-consultexo-testimonial.php:86
+#: inc/aasta/front-page/super-globalhub-testimonial.php:99
+#: inc/aasta/front-page/super-hartford-testimonial.php:99
+#: inc/aasta/front-page/super-house-decor-testimonial.php:99
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:86
+#: inc/aasta/front-page/super-stockpress-testimonial.php:86
+msgid "Financer"
+msgstr "融资人"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:98
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:85
+#: inc/aasta/front-page/super-agencywp-testimonial.php:98
+#: inc/aasta/front-page/super-appointech-testimonial.php:98
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:98
+#: inc/aasta/front-page/super-builderzone-testimonial.php:85
+#: inc/aasta/front-page/super-businesscore-testimonial.php:85
+#: inc/aasta/front-page/super-businesslab-testimonial.php:85
+#: inc/aasta/front-page/super-businesstek-testimonial.php:85
+#: inc/aasta/front-page/super-consultexo-testimonial.php:85
+#: inc/aasta/front-page/super-globalhub-testimonial.php:98
+#: inc/aasta/front-page/super-hartford-testimonial.php:98
+#: inc/aasta/front-page/super-house-decor-testimonial.php:98
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:85
+#: inc/aasta/front-page/super-stockpress-testimonial.php:85
+msgid "Herman Girard"
+msgstr "赫尔曼吉拉德"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:83
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:74
+#: inc/aasta/front-page/super-agencywp-testimonial.php:83
+#: inc/aasta/front-page/super-appointech-testimonial.php:83
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:83
+#: inc/aasta/front-page/super-builderzone-testimonial.php:74
+#: inc/aasta/front-page/super-businesscore-testimonial.php:74
+#: inc/aasta/front-page/super-businesslab-testimonial.php:74
+#: inc/aasta/front-page/super-businesstek-testimonial.php:74
+#: inc/aasta/front-page/super-consultexo-testimonial.php:74
+#: inc/aasta/front-page/super-globalhub-testimonial.php:83
+#: inc/aasta/front-page/super-hartford-testimonial.php:83
+#: inc/aasta/front-page/super-house-decor-testimonial.php:83
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:74
+#: inc/aasta/front-page/super-stockpress-testimonial.php:74
+msgid "Founder"
+msgstr "创始人"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:82
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:73
+#: inc/aasta/front-page/super-agencywp-testimonial.php:82
+#: inc/aasta/front-page/super-appointech-testimonial.php:82
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:82
+#: inc/aasta/front-page/super-builderzone-testimonial.php:73
+#: inc/aasta/front-page/super-businesscore-testimonial.php:73
+#: inc/aasta/front-page/super-businesslab-testimonial.php:73
+#: inc/aasta/front-page/super-businesstek-testimonial.php:73
+#: inc/aasta/front-page/super-consultexo-testimonial.php:73
+#: inc/aasta/front-page/super-globalhub-testimonial.php:82
+#: inc/aasta/front-page/super-hartford-testimonial.php:82
+#: inc/aasta/front-page/super-house-decor-testimonial.php:82
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:73
+#: inc/aasta/front-page/super-stockpress-testimonial.php:73
+msgid "Rosa Linn"
+msgstr "罗莎·林"
+
+#: inc/aasta/front-page/super-aasta-project.php:7
+#: inc/aasta/front-page/super-agencyfy-project.php:7
+#: inc/aasta/front-page/super-agencywp-project.php:7
+#: inc/aasta/front-page/super-appointech-project.php:7
+#: inc/aasta/front-page/super-architect-studio-project.php:7
+#: inc/aasta/front-page/super-builderzone-project.php:7
+#: inc/aasta/front-page/super-businesscore-project.php:7
+#: inc/aasta/front-page/super-businesslab-project.php:7
+#: inc/aasta/front-page/super-businesstek-project.php:7
+#: inc/aasta/front-page/super-consultexo-project.php:7
+#: inc/aasta/front-page/super-globalhub-project.php:7
+#: inc/aasta/front-page/super-hartford-project.php:7
+#: inc/aasta/front-page/super-house-decor-project.php:7
+#: inc/aasta/front-page/super-interiorhub-project.php:7
+#: inc/aasta/front-page/super-stockpress-project.php:7
+msgid "View All Projects"
+msgstr "查看全部项目"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:130
+#: inc/aasta/front-page/super-aasta-slider.php:75
+#: inc/aasta/front-page/super-aasta-slider.php:108
+#: inc/aasta/front-page/super-architect-studio-slider.php:108
+msgid "Pixels Perfect Design"
+msgstr "像素级的完美设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:320
+msgid "View All Button Text"
+msgstr "查看全部按钮 文本"
+
+#: inc/aasta/front-page/super-aasta-project.php:6
+#: inc/aasta/front-page/super-appointech-project.php:6
+#: inc/aasta/front-page/super-businesscore-project.php:6
+#: inc/aasta/front-page/super-businesslab-project.php:6
+#: inc/aasta/front-page/super-businesstek-project.php:6
+#: inc/aasta/front-page/super-hartford-project.php:6
+#: inc/aasta/front-page/super-stockpress-project.php:6
+msgid "Our Latest Works"
+msgstr "我们的最新作品"
+
+#: inc/aasta/front-page/super-aasta-project.php:5
+#: inc/aasta/front-page/super-agencywp-project.php:6
+#: inc/aasta/front-page/super-appointech-project.php:5
+#: inc/aasta/front-page/super-businesscore-project.php:5
+#: inc/aasta/front-page/super-businesslab-project.php:5
+#: inc/aasta/front-page/super-businesstek-project.php:5
+#: inc/aasta/front-page/super-consultexo-project.php:5
+#: inc/aasta/front-page/super-globalhub-project.php:6
+#: inc/aasta/front-page/super-hartford-project.php:5
+#: inc/aasta/front-page/super-stockpress-project.php:5
+msgid "Our Projects"
+msgstr "我们的项目"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:249
+#: inc/aasta/customizer/super-aasta-customizer-options.php:306
+#: inc/aasta/customizer/super-aasta-customizer-options.php:371
+#: inc/aasta/customizer/super-aasta-customizer-options.php:413
+msgid "Section Description"
+msgstr "板块描述"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:235
+#: inc/aasta/customizer/super-aasta-customizer-options.php:292
+#: inc/aasta/customizer/super-aasta-customizer-options.php:357
+#: inc/aasta/customizer/super-aasta-customizer-options.php:399
+msgid "Section Title"
+msgstr "板块标题"
+
+#: inc/aasta/front-page/super-aasta-service.php:91
+#: inc/aasta/front-page/super-aasta-service.php:100
+#: inc/aasta/front-page/super-aasta-service.php:109
+#: inc/aasta/front-page/super-agencyfy-service.php:91
+#: inc/aasta/front-page/super-agencyfy-service.php:100
+#: inc/aasta/front-page/super-agencyfy-service.php:109
+#: inc/aasta/front-page/super-agencywp-service.php:92
+#: inc/aasta/front-page/super-agencywp-service.php:103
+#: inc/aasta/front-page/super-agencywp-service.php:114
+#: inc/aasta/front-page/super-appointech-service.php:93
+#: inc/aasta/front-page/super-appointech-service.php:104
+#: inc/aasta/front-page/super-appointech-service.php:115
+#: inc/aasta/front-page/super-architect-studio-service.php:91
+#: inc/aasta/front-page/super-architect-studio-service.php:100
+#: inc/aasta/front-page/super-architect-studio-service.php:109
+#: inc/aasta/front-page/super-builderzone-service.php:91
+#: inc/aasta/front-page/super-builderzone-service.php:100
+#: inc/aasta/front-page/super-builderzone-service.php:109
+#: inc/aasta/front-page/super-businesscore-service.php:92
+#: inc/aasta/front-page/super-businesscore-service.php:103
+#: inc/aasta/front-page/super-businesscore-service.php:114
+#: inc/aasta/front-page/super-businesslab-service.php:91
+#: inc/aasta/front-page/super-businesslab-service.php:100
+#: inc/aasta/front-page/super-businesslab-service.php:109
+#: inc/aasta/front-page/super-businesstek-service.php:91
+#: inc/aasta/front-page/super-businesstek-service.php:100
+#: inc/aasta/front-page/super-businesstek-service.php:109
+#: inc/aasta/front-page/super-consultexo-service.php:91
+#: inc/aasta/front-page/super-consultexo-service.php:100
+#: inc/aasta/front-page/super-consultexo-service.php:109
+#: inc/aasta/front-page/super-globalhub-service.php:92
+#: inc/aasta/front-page/super-globalhub-service.php:103
+#: inc/aasta/front-page/super-globalhub-service.php:114
+#: inc/aasta/front-page/super-hartford-service.php:91
+#: inc/aasta/front-page/super-hartford-service.php:100
+#: inc/aasta/front-page/super-hartford-service.php:109
+#: inc/aasta/front-page/super-house-decor-service.php:92
+#: inc/aasta/front-page/super-house-decor-service.php:101
+#: inc/aasta/front-page/super-house-decor-service.php:110
+#: inc/aasta/front-page/super-interiorhub-service.php:91
+#: inc/aasta/front-page/super-interiorhub-service.php:100
+#: inc/aasta/front-page/super-interiorhub-service.php:109
+#: inc/aasta/front-page/super-stockpress-service.php:91
+#: inc/aasta/front-page/super-stockpress-service.php:100
+#: inc/aasta/front-page/super-stockpress-service.php:109
+msgid "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+msgstr "Lorem Ipsum是印刷和排版行业提供的示例文本。Lorem Ipsum一直作为常见的虚拟内容。"
+
+#: inc/aasta/front-page/super-aasta-testimonial.php:75
+#: inc/aasta/front-page/super-aasta-testimonial.php:91
+#: inc/aasta/front-page/super-aasta-testimonial.php:107
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:72
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:84
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:96
+#: inc/aasta/front-page/super-agencywp-testimonial.php:75
+#: inc/aasta/front-page/super-agencywp-testimonial.php:91
+#: inc/aasta/front-page/super-agencywp-testimonial.php:107
+#: inc/aasta/front-page/super-appointech-testimonial.php:75
+#: inc/aasta/front-page/super-appointech-testimonial.php:91
+#: inc/aasta/front-page/super-appointech-testimonial.php:107
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:75
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:91
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:107
+#: inc/aasta/front-page/super-builderzone-testimonial.php:72
+#: inc/aasta/front-page/super-builderzone-testimonial.php:84
+#: inc/aasta/front-page/super-builderzone-testimonial.php:96
+#: inc/aasta/front-page/super-businesscore-testimonial.php:72
+#: inc/aasta/front-page/super-businesscore-testimonial.php:84
+#: inc/aasta/front-page/super-businesscore-testimonial.php:96
+#: inc/aasta/front-page/super-businesslab-testimonial.php:72
+#: inc/aasta/front-page/super-businesslab-testimonial.php:84
+#: inc/aasta/front-page/super-businesslab-testimonial.php:96
+#: inc/aasta/front-page/super-businesstek-testimonial.php:72
+#: inc/aasta/front-page/super-businesstek-testimonial.php:84
+#: inc/aasta/front-page/super-businesstek-testimonial.php:96
+#: inc/aasta/front-page/super-consultexo-testimonial.php:72
+#: inc/aasta/front-page/super-consultexo-testimonial.php:84
+#: inc/aasta/front-page/super-consultexo-testimonial.php:96
+#: inc/aasta/front-page/super-globalhub-testimonial.php:75
+#: inc/aasta/front-page/super-globalhub-testimonial.php:91
+#: inc/aasta/front-page/super-globalhub-testimonial.php:107
+#: inc/aasta/front-page/super-hartford-testimonial.php:75
+#: inc/aasta/front-page/super-hartford-testimonial.php:91
+#: inc/aasta/front-page/super-hartford-testimonial.php:107
+#: inc/aasta/front-page/super-house-decor-testimonial.php:75
+#: inc/aasta/front-page/super-house-decor-testimonial.php:91
+#: inc/aasta/front-page/super-house-decor-testimonial.php:107
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:72
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:84
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:96
+#: inc/aasta/front-page/super-stockpress-testimonial.php:72
+#: inc/aasta/front-page/super-stockpress-testimonial.php:84
+#: inc/aasta/front-page/super-stockpress-testimonial.php:96
+msgid "\"You guys are legendary! You guys are great and having amazing support & service. I couldn’t ask for any better. Thank you!\""
+msgstr "\"你们的团队真是太棒了！提供了超出我期望的支持和服务。感激不尽，真的谢谢你们！\""
+
+#: inc/aasta/front-page/super-aasta-service.php:4
+#: inc/aasta/front-page/super-agencywp-service.php:5
+#: inc/aasta/front-page/super-businesscore-service.php:4
+#: inc/aasta/front-page/super-businesslab-service.php:4
+#: inc/aasta/front-page/super-businesstek-service.php:4
+#: inc/aasta/front-page/super-globalhub-service.php:5
+#: inc/aasta/front-page/super-hartford-service.php:4
+#: inc/aasta/front-page/super-stockpress-service.php:4
+msgid "Our Features"
+msgstr "我们的特色"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:184
+msgid "Choose Blog Category"
+msgstr "选择文章分类"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:177
+#: inc/arile-super-activator.php:20
+msgid "Blog"
+msgstr "博客"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:169
+msgid "Background Image"
+msgstr "背景图片"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:155
+msgid "Testimonial Item"
+msgstr "客户评价条目"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:154
+msgid "Add new testimonial item"
+msgstr "添加新的客户评价条目"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:152
+msgid "Testimonial Items Content"
+msgstr "客户评价内容"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:132
+msgid "Project Item"
+msgstr "项目条目"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:131
+msgid "Add new project item"
+msgstr "添加新的项目条目"
+
+#: inc/aasta/front-page/super-aasta-service.php:5
+#: inc/aasta/front-page/super-appointech-service.php:6
+#: inc/aasta/front-page/super-businesscore-service.php:5
+#: inc/aasta/front-page/super-businesslab-service.php:5
+#: inc/aasta/front-page/super-businesstek-service.php:5
+#: inc/aasta/front-page/super-hartford-service.php:5
+#: inc/aasta/front-page/super-stockpress-service.php:5
+msgid "World's Best Services We Provide To Grow Your Business"
+msgstr "我们提供世界级顶尖水准的服务，助您业务增长。"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:128
+msgid "Project Items Content"
+msgstr "项目条目内容"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:105
+msgid "Service Item"
+msgstr "服务条目"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:104
+msgid "Add new service item"
+msgstr "添加新的服务条目"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:101
+msgid "Service Items Content"
+msgstr "服务条目内容"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:79
+msgid "Slide Item"
+msgstr "幻灯片条目"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:78
+msgid "Add new slide item"
+msgstr "添加一条新的幻灯片"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:76
+msgid "Slider Items Content"
+msgstr "幻灯片内容"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:999
+msgid "Sales Manager"
+msgstr "销售经理"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:992
+#: inc/aasta/customizer/super-aasta-customizer-default.php:1006
+#: inc/aasta/front-page/super-aasta-testimonial.php:115
+#: inc/aasta/front-page/super-agencyfy-testimonial.php:98
+#: inc/aasta/front-page/super-agencywp-testimonial.php:115
+#: inc/aasta/front-page/super-appointech-testimonial.php:115
+#: inc/aasta/front-page/super-architect-studio-testimonial.php:115
+#: inc/aasta/front-page/super-builderzone-testimonial.php:98
+#: inc/aasta/front-page/super-businesscore-testimonial.php:98
+#: inc/aasta/front-page/super-businesslab-testimonial.php:98
+#: inc/aasta/front-page/super-businesstek-testimonial.php:98
+#: inc/aasta/front-page/super-consultexo-testimonial.php:98
+#: inc/aasta/front-page/super-globalhub-testimonial.php:115
+#: inc/aasta/front-page/super-hartford-testimonial.php:115
+#: inc/aasta/front-page/super-house-decor-testimonial.php:115
+#: inc/aasta/front-page/super-interiorhub-testimonial.php:98
+#: inc/aasta/front-page/super-stockpress-testimonial.php:98
+msgid "Designer"
+msgstr "设计师"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:798
+#: inc/aasta/customizer/super-aasta-customizer-default.php:854
+#: inc/aasta/customizer/super-aasta-customizer-default.php:883
+#: inc/aasta/customizer/super-aasta-customizer-default.php:970
+#: inc/aasta/front-page/super-aasta-project.php:87
+#: inc/aasta/front-page/super-appointech-project.php:89
+#: inc/aasta/front-page/super-businesscore-project.php:89
+#: inc/aasta/front-page/super-businesslab-project.php:89
+#: inc/aasta/front-page/super-businesstek-project.php:89
+#: inc/aasta/front-page/super-consultexo-project.php:87
+#: inc/aasta/front-page/super-hartford-project.php:89
+#: inc/aasta/front-page/super-stockpress-project.php:87
+msgid "Data Analytics"
+msgstr "数据分析"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:792
+#: inc/aasta/customizer/super-aasta-customizer-default.php:848
+#: inc/aasta/customizer/super-aasta-customizer-default.php:877
+#: inc/aasta/customizer/super-aasta-customizer-default.php:964
+#: inc/aasta/front-page/super-aasta-project.php:76
+#: inc/aasta/front-page/super-appointech-project.php:77
+#: inc/aasta/front-page/super-businesscore-project.php:77
+#: inc/aasta/front-page/super-businesslab-project.php:77
+#: inc/aasta/front-page/super-businesstek-project.php:77
+#: inc/aasta/front-page/super-consultexo-project.php:76
+#: inc/aasta/front-page/super-hartford-project.php:77
+#: inc/aasta/front-page/super-stockpress-project.php:76
+msgid "Market Expansion"
+msgstr "市场扩张"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:842
+#: inc/aasta/customizer/super-aasta-customizer-default.php:871
+#: inc/aasta/customizer/super-aasta-customizer-default.php:958
+#: inc/aasta/front-page/super-aasta-project.php:65
+#: inc/aasta/front-page/super-stockpress-project.php:65
+msgid "StartUp Business"
+msgstr "初创企业"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:581
+#: inc/aasta/customizer/super-aasta-customizer-default.php:606
+#: inc/aasta/customizer/super-aasta-customizer-default.php:758
+#: inc/aasta/front-page/super-aasta-service.php:108
+#: inc/aasta/front-page/super-agencywp-service.php:113
+#: inc/aasta/front-page/super-appointech-service.php:114
+#: inc/aasta/front-page/super-businesscore-service.php:113
+#: inc/aasta/front-page/super-businesslab-service.php:99
+#: inc/aasta/front-page/super-businesstek-service.php:99
+#: inc/aasta/front-page/super-globalhub-service.php:113
+#: inc/aasta/front-page/super-hartford-service.php:99
+#: inc/aasta/front-page/super-stockpress-service.php:108
+msgid "Creative Design"
+msgstr "创意设计"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:748
+#: inc/aasta/front-page/super-aasta-service.php:99
+#: inc/aasta/front-page/super-stockpress-service.php:99
+msgid "Translation & RTL Ready"
+msgstr "翻译与RTL准备"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:561
+#: inc/aasta/customizer/super-aasta-customizer-default.php:596
+#: inc/aasta/customizer/super-aasta-customizer-default.php:738
+#: inc/aasta/front-page/super-aasta-service.php:90
+#: inc/aasta/front-page/super-agencywp-service.php:91
+#: inc/aasta/front-page/super-appointech-service.php:92
+#: inc/aasta/front-page/super-businesscore-service.php:91
+#: inc/aasta/front-page/super-businesslab-service.php:90
+#: inc/aasta/front-page/super-businesstek-service.php:90
+#: inc/aasta/front-page/super-globalhub-service.php:91
+#: inc/aasta/front-page/super-hartford-service.php:90
+#: inc/aasta/front-page/super-stockpress-service.php:90
+msgid "SEO Friendly"
+msgstr "对搜索引擎友好"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:82
+#: inc/aasta/customizer/super-aasta-customizer-default.php:465
+#: inc/aasta/front-page/super-appointech-slider.php:72
+msgid "Pixels Perfect Design "
+msgstr "像素级的完美设计 "
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:81
+#: inc/aasta/customizer/super-aasta-customizer-default.php:129
+#: inc/aasta/customizer/super-aasta-customizer-default.php:231
+#: inc/aasta/customizer/super-aasta-customizer-default.php:464
+#: inc/aasta/front-page/super-aasta-slider.php:76
+#: inc/aasta/front-page/super-aasta-slider.php:109
+#: inc/aasta/front-page/super-appointech-slider.php:73
+#: inc/aasta/front-page/super-architect-studio-slider.php:109
+#: inc/aasta/front-page/super-stockpress-slider.php:71
+msgid "Build a Beautiful Website"
+msgstr "设计漂亮的网站"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:74
+#: inc/aasta/customizer/super-aasta-customizer-default.php:84
+#: inc/aasta/customizer/super-aasta-customizer-default.php:98
+#: inc/aasta/customizer/super-aasta-customizer-default.php:108
+#: inc/aasta/customizer/super-aasta-customizer-default.php:122
+#: inc/aasta/customizer/super-aasta-customizer-default.php:132
+#: inc/aasta/customizer/super-aasta-customizer-default.php:147
+#: inc/aasta/customizer/super-aasta-customizer-default.php:157
+#: inc/aasta/customizer/super-aasta-customizer-default.php:173
+#: inc/aasta/customizer/super-aasta-customizer-default.php:183
+#: inc/aasta/customizer/super-aasta-customizer-default.php:199
+#: inc/aasta/customizer/super-aasta-customizer-default.php:209
+#: inc/aasta/customizer/super-aasta-customizer-default.php:224
+#: inc/aasta/customizer/super-aasta-customizer-default.php:233
+#: inc/aasta/customizer/super-aasta-customizer-default.php:249
+#: inc/aasta/customizer/super-aasta-customizer-default.php:259
+#: inc/aasta/customizer/super-aasta-customizer-default.php:275
+#: inc/aasta/customizer/super-aasta-customizer-default.php:285
+#: inc/aasta/customizer/super-aasta-customizer-default.php:301
+#: inc/aasta/customizer/super-aasta-customizer-default.php:311
+#: inc/aasta/customizer/super-aasta-customizer-default.php:327
+#: inc/aasta/customizer/super-aasta-customizer-default.php:337
+#: inc/aasta/customizer/super-aasta-customizer-default.php:353
+#: inc/aasta/customizer/super-aasta-customizer-default.php:363
+#: inc/aasta/customizer/super-aasta-customizer-default.php:378
+#: inc/aasta/customizer/super-aasta-customizer-default.php:387
+#: inc/aasta/customizer/super-aasta-customizer-default.php:403
+#: inc/aasta/customizer/super-aasta-customizer-default.php:413
+#: inc/aasta/customizer/super-aasta-customizer-default.php:429
+#: inc/aasta/customizer/super-aasta-customizer-default.php:439
+#: inc/aasta/customizer/super-aasta-customizer-default.php:457
+#: inc/aasta/customizer/super-aasta-customizer-default.php:467
+#: inc/aasta/front-page/super-aasta-slider.php:64
+#: inc/aasta/front-page/super-aasta-slider.php:79
+#: inc/aasta/front-page/super-aasta-slider.php:97
+#: inc/aasta/front-page/super-aasta-slider.php:112
+#: inc/aasta/front-page/super-agencyfy-slider.php:61
+#: inc/aasta/front-page/super-agencyfy-slider.php:76
+#: inc/aasta/front-page/super-agencywp-slider.php:61
+#: inc/aasta/front-page/super-agencywp-slider.php:76
+#: inc/aasta/front-page/super-appointech-slider.php:61
+#: inc/aasta/front-page/super-appointech-slider.php:76
+#: inc/aasta/front-page/super-architect-studio-slider.php:64
+#: inc/aasta/front-page/super-architect-studio-slider.php:79
+#: inc/aasta/front-page/super-architect-studio-slider.php:97
+#: inc/aasta/front-page/super-architect-studio-slider.php:112
+#: inc/aasta/front-page/super-builderzone-slider.php:61
+#: inc/aasta/front-page/super-builderzone-slider.php:76
+#: inc/aasta/front-page/super-businesscore-slider.php:61
+#: inc/aasta/front-page/super-businesscore-slider.php:76
+#: inc/aasta/front-page/super-businesslab-slider.php:61
+#: inc/aasta/front-page/super-businesslab-slider.php:76
+#: inc/aasta/front-page/super-businesstek-slider.php:60
+#: inc/aasta/front-page/super-businesstek-slider.php:74
+#: inc/aasta/front-page/super-consultexo-slider.php:61
+#: inc/aasta/front-page/super-consultexo-slider.php:76
+#: inc/aasta/front-page/super-globalhub-slider.php:61
+#: inc/aasta/front-page/super-globalhub-slider.php:76
+#: inc/aasta/front-page/super-hartford-slider.php:61
+#: inc/aasta/front-page/super-hartford-slider.php:76
+#: inc/aasta/front-page/super-house-decor-slider.php:60
+#: inc/aasta/front-page/super-house-decor-slider.php:75
+#: inc/aasta/front-page/super-interiorhub-slider.php:61
+#: inc/aasta/front-page/super-interiorhub-slider.php:76
+#: inc/aasta/front-page/super-stockpress-slider.php:60
+#: inc/aasta/front-page/super-stockpress-slider.php:74
+msgid "Check it out"
+msgstr "请查看"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:456
+#: inc/aasta/customizer/super-aasta-customizer-default.php:466
+#: inc/aasta/front-page/super-aasta-slider.php:95
+#: inc/aasta/front-page/super-aasta-slider.php:110
+#: inc/aasta/front-page/super-architect-studio-slider.php:95
+#: inc/aasta/front-page/super-architect-studio-slider.php:110
+msgid "Aasta is a most popular Multipurpose WordPress themes in the world. The designs are clean, modern, and feature strong default colors that inspire confidence."
+msgstr "Aasta是世界上最受欢迎的多用途WordPress主题之一。其设计干净、现代，具有鲜明的默认颜色，能激发信心。"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:455
+#: inc/aasta/front-page/super-aasta-slider.php:93
+#: inc/aasta/front-page/super-architect-studio-slider.php:93
+msgid "A Multipurpose WP Theme"
+msgstr "一个多用途的WordPress主题"
+
+#: inc/aasta/customizer/super-aasta-customizer-default.php:454
+#: inc/aasta/front-page/super-aasta-slider.php:94
+#: inc/aasta/front-page/super-architect-studio-slider.php:94
+msgid "Welcome to Aasta"
+msgstr "欢迎使用Aasta"
+
+#: inc/aasta/customizer/sections/super-aasta-testimonial-customizer-settings.php:64
+#: inc/aasta/customizer/super-aasta-customizer-options.php:142
+msgid "Testimonial"
+msgstr "客户评价"
+
+#: inc/aasta/customizer/sections/super-aasta-testimonial-customizer-settings.php:41
+msgid "Testimonial Enable/Disable"
+msgstr "客户评价 启用/禁用"
+
+#: inc/aasta/customizer/sections/super-aasta-testimonial-customizer-settings.php:28
+msgid "Testimonial Options"
+msgstr "客户评价 选项"
+
+#: inc/aasta/customizer/sections/super-aasta-slider-customizer-settings.php:65
+msgid "Slides"
+msgstr "幻灯片"
+
+#: inc/aasta/customizer/sections/super-aasta-slider-customizer-settings.php:55
+#: inc/aasta/customizer/sections/super-aasta-testimonial-customizer-settings.php:54
+msgid "Overlay Enable/Disable"
+msgstr "遮罩 启用/禁用"
+
+#: inc/aasta/customizer/sections/super-aasta-slider-customizer-settings.php:42
+msgid "Slider Enable/Disable"
+msgstr "幻灯片 启用/禁用"
+
+#: inc/aasta/customizer/sections/super-aasta-slider-customizer-settings.php:28
+msgid "Slider Options"
+msgstr "幻灯片 选项"
+
+#: inc/aasta/customizer/sections/super-aasta-service-customizer-settings.php:51
+#: inc/aasta/customizer/super-aasta-customizer-options.php:92
+msgid "Service"
+msgstr "服务"
+
+#: inc/aasta/customizer/sections/super-aasta-service-customizer-settings.php:41
+msgid "Service Enable/Disable"
+msgstr "服务 启用/禁用"
+
+#: inc/aasta/customizer/sections/super-aasta-service-customizer-settings.php:28
+msgid "Service Options"
+msgstr "服务选项"
+
+#: inc/aasta/customizer/sections/super-aasta-project-customizer-settings.php:73
+msgid "Button Link"
+msgstr "按钮的链接"
+
+#: inc/aasta/customizer/sections/super-aasta-project-customizer-settings.php:41
+msgid "Project Enable/Disable"
+msgstr "项目 启用/禁用"
+
+#: inc/aasta/customizer/sections/super-aasta-project-customizer-settings.php:28
+msgid "Project Options"
+msgstr "项目选项"
+
+#: inc/aasta/customizer/sections/super-aasta-blog-customizer-settings.php:82
+#: inc/aasta/customizer/sections/super-aasta-project-customizer-settings.php:83
+#: inc/aasta/customizer/super-aasta-customizer-options.php:119
+msgid "Project"
+msgstr "项目"
+
+#: inc/aasta/customizer/sections/super-aasta-blog-customizer-settings.php:72
+msgid "Meta Date Enable/Disable"
+msgstr "元信息 启用/禁用"
+
+#: inc/aasta/customizer/sections/super-aasta-blog-customizer-settings.php:59
+#: inc/aasta/customizer/sections/super-aasta-project-customizer-settings.php:59
+msgid "Container Full"
+msgstr "全宽容器"
+
+#: inc/aasta/customizer/sections/super-aasta-blog-customizer-settings.php:58
+#: inc/aasta/customizer/sections/super-aasta-project-customizer-settings.php:58
+msgid "Container"
+msgstr "容器"
+
+#: inc/aasta/customizer/sections/super-aasta-blog-customizer-settings.php:55
+#: inc/aasta/customizer/sections/super-aasta-project-customizer-settings.php:55
+msgid "Container Width"
+msgstr "容器宽度"
+
+#: inc/aasta/customizer/sections/super-aasta-blog-customizer-settings.php:41
+msgid "Blog Enable/Disable"
+msgstr "博客 启用/禁用"
+
+#: inc/aasta/customizer/sections/super-aasta-blog-customizer-settings.php:28
+msgid "Blog Options"
+msgstr "博客选项"
+
+#. Author URI of the plugin
+#: arile-super.php
+msgid "https://themearile.com/"
+msgstr "https://themearile.com/"
+
+#. Author of the plugin
+#: arile-super.php
+msgid "ThemeArile"
+msgstr "ThemeArile"
+
+#. Description of the plugin
+#: arile-super.php
+msgid "Arile Super Enhances ThemeArile with additional functionality."
+msgstr "Arile Super插件为Arile主题提供额外功能。"
+
+#. Plugin URI of the plugin
+#: arile-super.php
+msgid "https://themearile.com/aasta-theme/"
+msgstr "https://themearile.com/aasta-theme/"
+
+#. Plugin Name of the plugin
+#: arile-super.php
+msgid "Arile Super"
+msgstr "Arile Super"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:22
+msgid "Frontpage Sections"
+msgstr "主页的板块（Arile Super插件）"
+
+#: inc/aasta/customizer/super-aasta-customizer-options.php:67
+msgid "Main Slider"
+msgstr "滑动幻灯片"
