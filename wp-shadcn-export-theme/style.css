@@ -1,0 +1,17 @@
+/*
+Theme Name: Shadcn Export Theme
+Theme URI: https://yourdomain.com
+Author: Your Name
+Author URI: https://yourdomain.com
+Description: A modern, export-focused WordPress theme using Tailwind CSS and shadcn-style UI tokens.
+Version: 0.1.0
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 7.4
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: shadcn-export
+Tags: tailwind, shadcn, products, blog, landing-page, responsive
+*/
+
+/* The main styles are built by Tailwind to dist/styles.css */
