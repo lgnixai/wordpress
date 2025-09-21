@@ -1,0 +1,22 @@
+Placeholder Images Required
+===========================
+
+Please add the following placeholder images to the assets/images directory:
+
+1. hero-image.jpg - Homepage hero section image (1920x800px recommended)
+   - Should show export/shipping related imagery
+   - High quality, professional look
+
+2. product-placeholder.jpg - Default product image (800x800px)
+   - Generic product image for products without featured images
+   - Clean, simple design
+
+3. about-story.jpg - About page company story image (800x600px)
+   - Company or team related image
+   - Professional setting
+
+4. team-1.jpg to team-4.jpg - Team member photos (400x400px)
+   - Professional headshots
+   - Square format
+
+Note: All images should be optimized for web use (compressed JPG format).

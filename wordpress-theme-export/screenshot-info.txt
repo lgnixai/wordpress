@@ -1,0 +1,24 @@
+WordPress Theme Screenshot
+==========================
+
+Please create a screenshot.png file in the theme root directory.
+
+Requirements:
+- Dimensions: 1200x900px (WordPress recommended size)
+- Format: PNG
+- File name: screenshot.png (exactly)
+
+The screenshot should show:
+- The homepage design with hero section
+- Clean, modern layout
+- Professional appearance suitable for export business
+
+This image will be displayed in:
+- WordPress admin theme selection screen
+- Theme directory (if submitted)
+
+Tips:
+- Use a real browser screenshot of the theme
+- Include the header navigation
+- Show some product cards or features
+- Ensure text is readable at smaller sizes
